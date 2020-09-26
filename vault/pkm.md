@@ -13,6 +13,8 @@ stub: false
 
 This site is meant to be a reference of all things PKM. 
 
+It is a work in progress :)
+
 
 <!-- It is compiled from the [[highest quality open sources of information|acknowledgements]] available about AWS. It is generated and published using [Dendron](http://dendron.so/), the open source note taking tool.
 
