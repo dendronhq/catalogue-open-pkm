@@ -9,7 +9,7 @@ stub: false
 
 # The Open PKM Catalogue
 
-<!-- <iframe src="https://ghbtns.com/github-btn.html?user=dendronhq&repo=catalogue-open-aws&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe> -->
+<iframe src="https://ghbtns.com/github-btn.html?user=dendronhq&repo=catalogue-open-pkm&type=star&count=false&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
 
 This site is meant to be a reference of all things PKM. 
 
