@@ -1,0 +1,5 @@
+site:
+    siteHierarchies:
+        - pkm
+    siteRootDir: docs
+    usePrettyRefs: true
