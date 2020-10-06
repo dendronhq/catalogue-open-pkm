@@ -17,8 +17,8 @@ gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into t
 dendron_vault_path: "vault"
 
 # seo
-tagline: "A better way to know"
-description: "Dendron is a local-first, markdown based, hierarchical note taking tool. It is meant to help you create, organize, and collaborate on knowledge bases of any size."
+tagline: "Open PKM Catalogue"
+description: "All things personal knowledge management"
 twitter:
   card: summary
   username: dendronhq
