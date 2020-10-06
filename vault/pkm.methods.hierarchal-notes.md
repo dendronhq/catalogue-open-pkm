@@ -11,15 +11,13 @@ stub: false
 
 ## Summary
 
-The hierarchal notes methodology involves organizing your notes according to hierarchies. 
+Hierarchal notes is about organizing your notes using hierarchies. A note in a hierarchy usually has one parent and any number of children.
 
-## Basics
+## Getting Started
 
 At its most basic, a user can start off with a single one level hierarchy (eg. Inbox) and lump all their notes inside. As they accumulate more notes, they can split their notes into multiple hierarchies (eg. Inbox, Projects, People, Health, etc). As more notes are accumulated, they might add an extra level to their hierarchies (eg. `Projects/work`, `Projects/personal`).
 
 For most domains, hierarchies of one or two levels is sufficient though people can go further if they wish.
-
-A common misconception is that hierarchal notes is all about hierarchies. Hierarchal notes recommend that the **primary way** to organize is via hierarchies but it also enables and encourages other methodologies like [[zettelkasten|pkm.t.zettelkasten]] and [[para|pkm.t.para]]. Hierarchal notes help provide a basic universal structure that complement other note taking methodologies.
 
 ## Tools
 
