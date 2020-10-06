@@ -8,3 +8,7 @@ stub: false
 ---
 
 # Bullet Journal
+
+
+# Resources
+- [wikipedia](https://en.wikipedia.org/wiki/Bullet_journal)

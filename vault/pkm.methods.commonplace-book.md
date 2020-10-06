@@ -1,6 +1,6 @@
 ---
 id: 92db8511-ff54-488e-91f2-022325d7e16c
-title: Commonplace-books
+title: Commonplace book
 desc: ''
 updated: 1601139486911
 created: 1601139486911

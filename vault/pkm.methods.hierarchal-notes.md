@@ -13,6 +13,12 @@ stub: false
 
 Hierarchal notes is about organizing your notes using hierarchies. A note in a hierarchy usually has one parent and any number of children.
 
+## Features
+
+### Path Traversal
+((ref: [[pkm.ref.path-traversal]]#path traversal,))
+
+
 ## Getting Started
 
 At its most basic, a user can start off with a single one level hierarchy (eg. Inbox) and lump all their notes inside. As they accumulate more notes, they can split their notes into multiple hierarchies (eg. Inbox, Projects, People, Health, etc). As more notes are accumulated, they might add an extra level to their hierarchies (eg. `Projects/work`, `Projects/personal`).

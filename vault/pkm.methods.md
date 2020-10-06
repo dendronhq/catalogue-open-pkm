@@ -4,7 +4,6 @@ title: Methods
 desc: ''
 updated: 1601139459002
 created: 1601139459002
-stub: false
 ---
 
 # Methods
