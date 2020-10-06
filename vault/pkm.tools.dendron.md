@@ -18,16 +18,17 @@ You can use Dendron to **create, find, collaborate** with the information that *
 
 ![](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/graph-intro.gif)
 
-# Features
+## Features
 
-## Path Traversal
+### Path Traversal
 ((ref: [[pkm.ref.path-traversal]]#path traversal,1))
 
-## Modeless Operation
+### Modeless Operation
 ((ref: [[pkm.ref.modeless-operation]]#modeless operation,1))
 
-# Methods
+## Methods
 
 - [[Hierarchal Notes|pkm.methods.hierarchal-notes]]
 - [[Networked Notes|pkm.methods.networked-notes]]
 - [[Bullet Journal|pkm.methods.bullet-journal]]
+- [[PARA|pkm.methods.para]]

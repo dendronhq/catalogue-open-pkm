@@ -1,0 +1,17 @@
+version: 1
+imports: []
+schemas:
+- id: pkm
+  parent: root
+  children:
+    - methods
+    - ref
+    - tools
+- id: methods
+  namespace: true
+- id: ref
+  namespace: true
+- id: tools
+  namespace: true
+- id: templates
+  namespace: true
