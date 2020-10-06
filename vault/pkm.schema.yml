@@ -9,9 +9,15 @@ schemas:
     - tools
 - id: methods
   namespace: true
+  template:
+    id: pkm.templates.methods
+    type: note
 - id: ref
   namespace: true
 - id: tools
   namespace: true
+  template:
+    id: pkm.templates.tools
+    type: note
 - id: templates
   namespace: true
