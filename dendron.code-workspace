@@ -9,6 +9,7 @@
     ],
     "settings": {
         "dendron.rootDir": ".",
+        "dendron.copyNoteUrlRoot": "https://pkm.dendron.so",
         "editor.minimap.enabled": false,
         "files.autoSave": "onFocusChange",
         "workbench.colorTheme": "GitHub Light",
