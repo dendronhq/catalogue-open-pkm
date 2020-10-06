@@ -28,7 +28,8 @@ For more involved changes, you can clone our github [repo](https://github.com/de
 
 ### Images
 - if you're adding an image along with the documentation, you can [imgur](https://imgur.com/upload) to upload
-- note that you'll want to copy the **image link** and not the link to the imgur website 
+- note that you'll want to copy the **image link** and not the link to the imgur website
+- note before uploading your image consider using a service like [TinyPNG](https://tinypng.com/), this will compress your photos to a more web friendly size.
 
 <a href="https://www.loom.com/share/1b351d229eba4536a6361e5123cf8f24">  <img style="" src="https://cdn.loom.com/sessions/thumbnails/1b351d229eba4536a6361e5123cf8f24-with-play.gif"> </a>
 
