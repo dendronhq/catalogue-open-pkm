@@ -11,7 +11,7 @@ stub: false
 
 <iframe src="https://ghbtns.com/github-btn.html?user=dendronhq&repo=catalogue-open-pkm&type=star&count=false&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
 
-This site is meant to be a reference of all things PKM. 
+This site is meant to be a reference of all things PKM (Personal knowledge management). 
 
 It is a work in progress.
 
