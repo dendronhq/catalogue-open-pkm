@@ -9,9 +9,7 @@ stub: false
 
 # Modeless Operation
 
-No difference between searching for anote or creating a note. 
+Concept of frictionless note taking where there is no difference between searching for a note or creating one.
 
-
-## Tools
-- [[Notational Velocity|pkm.tools.notational-velocity]]
-- [[Dendron|pkm.tools.dendron]]
+## Related
+- [notational velocity](http://notational.net/)
