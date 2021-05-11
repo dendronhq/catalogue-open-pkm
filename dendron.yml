@@ -1,5 +1,23 @@
+version: 1
+vaults:
+    - 
+        fsPath: vault
+        remote: 
+            type: git
+            url: "git@github.com:dendronhq/catalogue-open-pkm.git"
+        name: pkm-docs
+useFMTitle: true
+useNoteTitleForLink: true
+usePrettyRefs: false
+noXVaultWikiLink: true
 site:
     siteHierarchies:
         - pkm
     siteRootDir: docs
     usePrettyRefs: true
+    copyAssets: true
+    siteUrl: 'https://pkm.dendron.so'
+    title: PKM
+initializeRemoteVaults: true
+useKatex: false
+defaultInsertHierarchy: templates
