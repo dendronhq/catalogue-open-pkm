@@ -6,7 +6,6 @@ updated: 1601948371561
 created: 1601948371561
 stub: false
 ---
-
 # Networked Notes
 
 ## Summary
@@ -14,9 +13,10 @@ stub: false
 Networked notes organizes notes like a graph with each note having the possibility for one to many connections to any other note. 
 
 ## Features
-((ref: [[pkm.ref.bi-directional-links]]#bi-directional links:#*))
 
-((ref: [[pkm.ref.graph-view]]#graph view))
+![[pkm.ref.bi-directional-links#bi-directional-links:#*]]
+
+![[pkm.ref.graph-view#graph-view]]
 
 ## Getting Started
 
@@ -27,7 +27,9 @@ Networked notes organizes notes like a graph with each note having the possibili
 Networked notes are most easily achieved using notes that support [[backlinks|pkm.ref.backlinks]].
 
 Some tools particularly well suited for this:
+
 - [[Roam|pkm.tools.roam]]
 - [[Logseq|pkm.tools.logseq]]
 
 # Resources
+
