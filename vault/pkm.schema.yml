@@ -1,23 +1,23 @@
 version: 1
 imports: []
 schemas:
-- id: pkm
-  parent: root
-  children:
-    - methods
-    - ref
-    - tools
-- id: methods
-  namespace: true
-  template:
-    id: pkm.templates.methods
-    type: note
-- id: ref
-  namespace: true
-- id: tools
-  namespace: true
-  template:
-    id: pkm.templates.tools
-    type: note
-- id: templates
-  namespace: true
+  - id: pkm
+    parent: root
+    children:
+      - methods
+      - tools
+      - ref
+  - id: methods
+    namespace: true
+    template:
+      id: pkm.templates.methods
+      type: note
+  - id: ref
+    namespace: true
+  - id: tools
+    namespace: true
+    template:
+      id: pkm.templates.tools
+      type: note
+  - id: templates
+    namespace: true

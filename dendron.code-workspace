@@ -12,7 +12,7 @@
         "dendron.copyNoteUrlRoot": "https://pkm.dendron.so",
         "editor.minimap.enabled": false,
         "files.autoSave": "onFocusChange",
-        "workbench.colorTheme": "GitHub Light",
+        "workbench.colorTheme": "Material Theme Darker",
         "pasteImage.path": "${currentFileDir}/assets/images",
         "pasteImage.prefix": "/",
         "markdown-preview-enhanced.enableWikiLinkSyntax": true,
