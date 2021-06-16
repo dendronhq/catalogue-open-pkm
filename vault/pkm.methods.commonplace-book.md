@@ -1,14 +1,11 @@
 ---
 id: 92db8511-ff54-488e-91f2-022325d7e16c
-title: Commonplace book
+title: Commonplace Books
 desc: ''
 updated: 1601139486911
 created: 1601139486911
 stub: false
 ---
-
-# Commonplace Books
-
 Before modern note taking applications were a thing, there were [commonplace books](https://en.wikipedia.org/wiki/Commonplace_book). These were notebooks people kept of knowledge that they wanted to remember which could include quotations, proverbial wisdom, recipes and anything else the writer fancied
 
 These books were used by both greek philosophers like Seneca to enlightenment luminaries like Locke to make sense of the world. but this was in a time before twitter, computers and the modern age of information abundance. 

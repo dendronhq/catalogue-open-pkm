@@ -6,7 +6,5 @@ updated: 1602089097823
 created: 1602089097823
 stub: false
 ---
-
-# Markdown Preview
-
 Supports the rendering of markdown content, usually in HTML
+

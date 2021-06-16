@@ -6,10 +6,9 @@ updated: 1601958444580
 created: 1601958444580
 stub: false
 ---
-
-# Tags
-
 Tags are a way of attaching a keyword to information so that it can be found using said keyword.
 
 ## Related
+
 - [wikipedia](https://en.wikipedia.org/wiki/Tag_(metadata))
+

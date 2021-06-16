@@ -6,9 +6,7 @@ updated: 1601954894029
 created: 1601954894029
 stub: false
 ---
-
-# Path Traversal
-
 Path traversal is a means of looking up a note via its path in a hierarchy
 
 ![](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/lookup-cli.gif)
+

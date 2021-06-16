@@ -6,10 +6,9 @@ updated: 1601955109573
 created: 1601955109573
 stub: false
 ---
-
-# Modeless Operation
-
 Concept of frictionless note taking where there is no difference between searching for a note or creating one.
 
 ## Related
+
 - [notational velocity](http://notational.net/)
+

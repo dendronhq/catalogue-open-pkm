@@ -5,10 +5,9 @@ desc: ''
 updated: 1601958340084
 created: 1601958340084
 ---
-
-# Wiki Link
-
 A wiki link is a way of creating links using the `[[{link}]]` syntax.
 
 ## Related
+
 - [wikipedia](https://en.wikipedia.org/wiki/Help:Link)
+

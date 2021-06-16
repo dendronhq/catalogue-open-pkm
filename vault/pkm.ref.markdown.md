@@ -6,7 +6,5 @@ updated: 1602089137238
 created: 1602089137238
 stub: false
 ---
-
-# Markdown
-
 - supports handling markdown files
+

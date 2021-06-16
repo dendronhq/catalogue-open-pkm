@@ -1,17 +1,14 @@
 ---
 id: eb7a54ee-c5a6-4fd3-911d-d9cd8ff94636
-title: Hierarchical Notes
+title: Hierarchal Notes
 desc: ''
 updated: 1620737961909
 created: 1601140330391
 stub: false
 ---
-# Hierarchal Notes
-
 ## Summary
 
 Hierarchal notes is about organizing your notes using hierarchies. A note in a hierarchy usually has one parent and any number of children.
-
 
 ## Features
 

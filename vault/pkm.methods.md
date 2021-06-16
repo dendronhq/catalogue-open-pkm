@@ -5,7 +5,5 @@ desc: ''
 updated: 1601139459002
 created: 1601139459002
 ---
-
-# Methods
-
 This page covers different methodologies of note taking
+

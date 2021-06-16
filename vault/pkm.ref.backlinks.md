@@ -6,7 +6,5 @@ updated: 1601953376943
 created: 1601953376943
 stub: false
 ---
-
-# Backlinks
-
 Backlinks show all notes connected to a given note. 
+

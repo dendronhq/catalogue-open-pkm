@@ -6,9 +6,6 @@ updated: 1601956913180
 created: 1601956913180
 stub: false
 ---
-
-# Contribute
-
 ## Send us a pull request
 
 ### Edit this page on Github
@@ -23,10 +20,11 @@ For more involved changes, you can clone our github [repo](https://github.com/de
 ## Workflow
 
 1. If you are creating a new page, find the corresponding page [[templates|pkm.templates]] to help you create an outline.
-1. Make your change.  
-1. Preview your changes using the `Dendron Markdown Enhanced` extension.
+2. Make your change.  
+3. Preview your changes using the `Dendron Markdown Enhanced` extension.
 
 ### Images
+
 - if you're adding an image along with the documentation, you can [imgur](https://imgur.com/upload) to upload
 - note that you'll want to copy the **image link** and not the link to the imgur website
 - note before uploading your image consider using a service like [TinyPNG](https://tinypng.com/), this will compress your photos to a more web friendly size.
@@ -34,6 +32,8 @@ For more involved changes, you can clone our github [repo](https://github.com/de
 <a href="https://www.loom.com/share/1b351d229eba4536a6361e5123cf8f24">  <img style="" src="https://cdn.loom.com/sessions/thumbnails/1b351d229eba4536a6361e5123cf8f24-with-play.gif"> </a>
 
 ### GIFS
+
 - uploading gifs is the same process as uploading images
 - to create gifs, we recommend using the [Kap](https://getkap.co/) app or making a [Loom video](http://loom.com/)
 - if you are making a gif from within vscode, please turn on [screencast mode](https://scotch.io/bar-talk/vs-code-screencast-mode) so we can see what awesome keyboard shortcuts you're using :) 
+

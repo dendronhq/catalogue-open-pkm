@@ -1,14 +1,11 @@
 ---
 id: e9525aeb-17b6-4fd8-86be-c960e0630171
 title: Bullet Journal
-desc: ""
+desc: ''
 updated: 1622309844841
 created: 1601303659741
 stub: false
 ---
-
-# Bullet Journal
-
 ## Summary
 
 Bullet journaling (BuJo for short) is a note-taking methodology developed by Ryder Carroll that emphasizes simplicity of setup and quick note taking to ensure that you stay productive instead of simply busy.
@@ -43,3 +40,4 @@ For a digital implementation, there have been various translations to markdown, 
 - [overview](https://bulletjournal.com/pages/learn)
 - [Markdown Bujo](https://tomhazledine.com/bullet-journal-revisited/)
 - [wikipedia](https://en.wikipedia.org/wiki/Bullet_journal)
+

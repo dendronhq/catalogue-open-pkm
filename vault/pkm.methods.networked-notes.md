@@ -6,8 +6,6 @@ updated: 1601948371561
 created: 1601948371561
 stub: false
 ---
-# Networked Notes
-
 ## Summary
 
 Networked notes organizes notes like a graph with each note having the possibility for one to many connections to any other note. 
