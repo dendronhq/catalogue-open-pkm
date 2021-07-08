@@ -1,6 +1,6 @@
 ---
 id: 61f3b580-d10a-467b-b4d1-ffadfe44183d
-title: Bujo and Dendron
+title: Bullet journaling and Dendron
 desc: ''
 updated: 1623822597737
 created: 1622902195004
@@ -25,4 +25,4 @@ Bullet Journaling emphasizes the 4 collections: days, months, future and an inde
 
 ## References
 - Method: [[pkm.methods.bullet-journal]]
-- Tool: [[pkm.tools.dendron]]
+- Tools: [[pkm.tools.dendron]]

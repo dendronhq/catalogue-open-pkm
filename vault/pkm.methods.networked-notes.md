@@ -12,9 +12,9 @@ Networked notes organizes notes like a graph with each note having the possibili
 
 ## Features
 
-![[pkm.ref.bi-directional-links#bi-directional-links:#*]]
+![[dendron://pkm/pkm.ref.bi-directional-links#summary,1:#*]]
 
-![[pkm.ref.graph-view#graph-view]]
+![[pkm.ref.graph-view]]
 
 ## Getting Started
 

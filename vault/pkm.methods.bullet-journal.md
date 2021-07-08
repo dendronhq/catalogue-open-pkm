@@ -37,7 +37,7 @@ For a digital implementation, there have been various translations to markdown, 
 
 # Resources
 
-- [overview](https://bulletjournal.com/pages/learn)
+- [Overview](https://bulletjournal.com/pages/learn)
 - [Markdown Bujo](https://tomhazledine.com/bullet-journal-revisited/)
-- [wikipedia](https://en.wikipedia.org/wiki/Bullet_journal)
+- [Wikipedia](https://en.wikipedia.org/wiki/Bullet_journal)
 
