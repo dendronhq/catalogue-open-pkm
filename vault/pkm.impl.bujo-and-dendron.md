@@ -1,6 +1,6 @@
 ---
 id: 61f3b580-d10a-467b-b4d1-ffadfe44183d
-title: Bullet journaling and Dendron
+title: Bullet Journaling and Dendron
 desc: ''
 updated: 1623822597737
 created: 1622902195004
