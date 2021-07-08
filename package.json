@@ -11,8 +11,5 @@
     "dependencies": {
         "@dendronhq/dendron-11ty": "^1.49.0",
         "@dendronhq/dendron-cli": "^0.48.0"
-      },    
-    "devDependencies": {
-        "@dendronhq/dendron-cli": "*"
-    }
+      }    
 }
