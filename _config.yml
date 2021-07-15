@@ -1,0 +1,34 @@
+# uncomment to preview locally
+#theme: "just-the-docs"
+remote_theme: dendronhq/dendron-jekyll
+title: Open PKM Catalogue
+logo: "/assets/images/logo.png"
+exclude: [ "node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "*/dendron.template.release.md"
+]
+footer_content: ""
+url: "https://pkm.dendron.so"
+
+gh_edit_link: true 
+gh_edit_repository: "https://github.com/dendronhq/catalogue-open-pkm"
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_branch: "master" # the branch that your docs is served from
+gh_root: "docs/" # doc root
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
+dendron_vault_path: "vault"
+
+# seo
+tagline: "Open PKM Catalogue"
+description: "All things personal knowledge management"
+twitter:
+  card: summary
+  username: dendronhq
+author:
+  twitter: dendronhq
+
+defaults:
+  -
+    scope:
+      path: "notes" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      image: "/assets/images/logo.png"
