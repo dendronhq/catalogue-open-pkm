@@ -16,4 +16,5 @@ created: 1622300583255
 ## Methods
 
 <!-- What [[pkm.methods]] is this tool well suited for?-->
+- [[pkm.methods.zettelkasten]]
 
