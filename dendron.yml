@@ -1,10 +1,10 @@
 version: 1
 vaults:
-    - 
+    -
         fsPath: vault
-        remote: 
+        remote:
             type: git
-            url: "git@github.com:dendronhq/catalogue-open-pkm.git"
+            url: 'git@github.com:dendronhq/catalogue-open-pkm.git'
         name: pkm-docs
 useFMTitle: true
 useNoteTitleForLink: true
@@ -18,6 +18,15 @@ site:
     copyAssets: true
     siteUrl: 'https://pkm.dendron.so'
     title: PKM
+    gh_edit_link: true
+    gh_edit_repository: "https://github.com/dendronhq/catalogue-open-pkm"
 initializeRemoteVaults: true
 useKatex: false
 defaultInsertHierarchy: templates
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+dendronVersion: 0.50.0
