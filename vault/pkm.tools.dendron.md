@@ -5,7 +5,7 @@ desc: ''
 updated: 1622902300410
 created: 1601948479041
 ---
-- [website](https://dendron.so/notes/b0fe6ef7-1553-4280-bc45-a71824c2ce36.html)
+- [website](https://dendron.so/)
 
 The **hierarchical** note taking tool that **grows** as you do.
 

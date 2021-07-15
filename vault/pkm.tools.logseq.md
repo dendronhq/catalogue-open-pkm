@@ -20,3 +20,10 @@ The server will never store or analyze your private notes. Your data are plain t
 
 ## Features
 
+From [logseq wiki](https://logseq.github.io/#/page/Contents)
+- [[pkm.ref.backlinks]]
+- [[pkm.ref.graph-view]]
+- [[pkm.ref.references]]
+- [[pkm.ref.tasks]]
+- [[pkm.ref.templates]]
+- [[pkm.ref.outlining]]
