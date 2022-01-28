@@ -6,10 +6,9 @@
   "author": "kevinslin <kevin@thence.io>",
   "license": "MIT",
   "scripts": {
-        "dendron-cli": "dendron-cli"
-    },
-    "dependencies": {
-        "@dendronhq/dendron-11ty": "^1.49.0",
-        "@dendronhq/dendron-cli": "^0.48.0"
-      }    
+    "dendron-cli": "dendron-cli"
+  },
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.79.0"
+  }
 }

@@ -1,2 +1,7 @@
 _site
 vault/.dendron.cache.json
+.next
+
+.dendron.port
+.dendron.ws
+node_modules
