@@ -1,15 +1,6 @@
-version: 1
-vaults:
-    -
-        fsPath: vault
-        remote:
-            type: git
-            url: 'git@github.com:dendronhq/catalogue-open-pkm.git'
-        name: pkm-docs
+version: 4
 useFMTitle: true
 useNoteTitleForLink: true
-usePrettyRefs: false
-noXVaultWikiLink: true
 site:
     siteHierarchies:
         - pkm
@@ -19,14 +10,85 @@ site:
     siteUrl: 'https://pkm.dendron.so'
     title: PKM
     gh_edit_link: true
-    gh_edit_repository: "https://github.com/dendronhq/catalogue-open-pkm"
-initializeRemoteVaults: true
+    gh_edit_repository: 'https://github.com/dendronhq/catalogue-open-pkm'
+    description: Personal knowledge space
+    siteLastModified: true
+    gh_edit_branch: main
 useKatex: false
-defaultInsertHierarchy: templates
-journal:
-    dailyDomain: daily
-    name: journal
-    dateFormat: y.MM.dd
-    addBehavior: childOfDomain
-    firstDayOfWeek: 1
-dendronVersion: 0.50.0
+commands:
+    lookup:
+        note:
+            selectionMode: extract
+            confirmVaultOnCreate: true
+            leaveTrace: false
+            bubbleUpCreateNew: true
+            vaultSelectionModeOnCreate: smart
+            fuzzThreshold: 0.2
+    insertNote:
+        initialValue: templates
+    insertNoteLink:
+        aliasMode: none
+        enableMultiSelect: false
+    insertNoteIndex:
+        enableMarker: false
+    randomNote: {}
+workspace:
+    dendronVersion: 0.79.0
+    vaults:
+        -
+            fsPath: vault
+            remote:
+                type: git
+                url: 'git@github.com:dendronhq/catalogue-open-pkm.git'
+            name: pkm-docs
+    journal:
+        dailyDomain: daily
+        name: journal
+        dateFormat: y.MM.dd
+        addBehavior: childOfDomain
+    scratch:
+        name: scratch
+        dateFormat: y.MM.dd.HHmmss
+        addBehavior: asOwnDomain
+    graph:
+        zoomSpeed: 1
+    enableAutoCreateOnDefinition: false
+    enableXVaultWikiLink: false
+    enableRemoteVaultInit: true
+    workspaceVaultSyncMode: noCommit
+    enableAutoFoldFrontmatter: false
+    maxPreviewsCached: 10
+    maxNoteLength: 204800
+    task:
+        name: ''
+        dateFormat: ''
+        addBehavior: childOfCurrent
+        statusSymbols:
+            '': ' '
+            wip: w
+            done: x
+            assigned: a
+            moved: m
+            blocked: b
+            delegated: l
+            dropped: d
+            pending: 'y'
+        prioritySymbols:
+            H: high
+            M: medium
+            L: low
+        todoIntegration: false
+        createTaskSelectionType: selection2link
+    enableUserTags: true
+    enableHashTags: true
+    enableEditorDecorations: true
+preview:
+    enableFMTitle: true
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enablePrettyRefs: false
+    enableKatex: false
+    automaticallyShowPreview: false
+mermaid: true
+dev:
+    enablePreviewV2: true
