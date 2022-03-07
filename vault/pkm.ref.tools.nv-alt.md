@@ -21,8 +21,8 @@ nvALT 2 is a fork of the original Notational Velocity with some additional featu
 
 ## Features
 
-- [[Markdown|pkm.ref.markdown]]
-- [[Markdown Preview|pkm.ref.markdown-preview]]
+- [[Markdown|pkm.ref.feat.markdown]]
+- [[Markdown Preview|pkm.ref.feat.markdown-preview]]
 
 ## Methods
 

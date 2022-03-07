@@ -16,9 +16,9 @@ Athens is a private, open-source tool for technology pioneers. Link thoughts, re
 <!-- Short description about what this tool does. Ideally include a screenshot -->
 ![](/assets/images/2021-07-15-19-15-07.png)
 ## Features
-- [[pkm.ref.graph-view]]
-- [[pkm.ref.outlining]]
-- [[pkm.ref.references]]
+- [[pkm.ref.feat.graph-view]]
+- [[pkm.ref.feat.outlining]]
+- [[pkm.ref.feat.references]]
 
 
 <!-- What primary features does this tool have-->

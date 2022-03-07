@@ -1,11 +1,16 @@
 ---
 id: c13508ee-7e34-4e01-bf22-72da545c9f8f
-title: Contribute
-desc: ''
-updated: 1601956913180
+title: About
+desc: About this site
+updated: 1646669977599
 created: 1601956913180
 stub: false
 ---
+
+## Acknowledgements
+
+This catalogue is intended to be a communal resource, and relies on contributions from the PKM community at large.
+
 ## Send us a pull request
 
 ### Edit this page on Github
@@ -19,7 +24,7 @@ For more involved changes, you can clone our github [repo](https://github.com/de
 
 ## Workflow
 
-1. If you are creating a new page, find the corresponding page [[templates|pkm.templates]] to help you create an outline.
+1. If you are creating a new page, find the corresponding page [[templates|pkm.about.templates]] to help you create an outline.
 2. Make your change.  
 3. Preview your changes using the `Dendron Markdown Enhanced` extension.
 

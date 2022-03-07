@@ -24,5 +24,5 @@ Bullet Journaling emphasizes the 4 collections: days, months, future and an inde
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/de5863520ba84b04a1980ddd317be9a8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## References
-- Method: [[pkm.methods.bullet-journal]]
-- Tools: [[pkm.tools.dendron]]
+- Method: [[pkm.workflows.bullet-journal]]
+- Tools: [[pkm.ref.tools.dendron]]

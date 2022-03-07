@@ -14,7 +14,7 @@ Hierarchal notes is about organizing your notes using hierarchies. A note in a h
 
 ### Path Traversal
 
-![[pkm.ref.path-traversal]]
+![[pkm.ref.feat.path-traversal]]
 
 ## Getting Started
 

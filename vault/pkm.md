@@ -12,7 +12,7 @@ This site is meant to be a reference of all things PKM (Personal knowledge manag
 
 It is a work in progress.
 
-If you would like to contribute to the guide, you can find instructions to do so [[here|pkm.contribute]]
+If you would like to contribute to the guide, you can find instructions to do so [[here|pkm.about]]
 
 All content on this site is licensed under the [Creative Commons Attribution 4.0 International](https://github.com/open-guides/og-aws/blob/master/LICENSE.txt) 
 
