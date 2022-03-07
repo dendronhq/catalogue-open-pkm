@@ -32,8 +32,8 @@ For a digital implementation, there have been various translations to markdown, 
 
 ## Tools
 
-- [[pkm.tools.pen-paper]]
-- [[pkm.tools.dendron]]
+- [[pkm.ref.tools.pen-paper]]
+- [[pkm.ref.tools.dendron]]
 
 # Resources
 

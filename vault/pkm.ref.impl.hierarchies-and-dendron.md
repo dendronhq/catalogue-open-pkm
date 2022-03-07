@@ -15,5 +15,5 @@ created: 1622902945897
 
 ## References
 
-- Method: [[pkm.methods.hierarchical-notes]]
-- Tool: [[pkm.tools.dendron]]
+- Method: [[pkm.workflows.hierarchical-notes]]
+- Tool: [[pkm.ref.tools.dendron]]

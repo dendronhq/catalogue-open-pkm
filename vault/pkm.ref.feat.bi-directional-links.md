@@ -12,8 +12,8 @@ stub: false
 Bi-directional links let you create a link in note A to note B and have a reference of note A show up in B.
 
 ## Tools
-- [[pkm.tools.roam]]
-- [[pkm.tools.obsidian]]
+- [[pkm.ref.tools.roam]]
+- [[pkm.ref.tools.obsidian]]
 
 
 ## Resources

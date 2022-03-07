@@ -1,20 +1,4 @@
-version: 4
-useFMTitle: true
-useNoteTitleForLink: true
-site:
-    siteHierarchies:
-        - pkm
-    siteRootDir: docs
-    usePrettyRefs: true
-    copyAssets: true
-    siteUrl: 'https://pkm.dendron.so'
-    title: PKM
-    gh_edit_link: true
-    gh_edit_repository: 'https://github.com/dendronhq/catalogue-open-pkm'
-    description: Personal knowledge space
-    siteLastModified: true
-    gh_edit_branch: main
-useKatex: false
+version: 5
 commands:
     lookup:
         note:
@@ -32,8 +16,9 @@ commands:
     insertNoteIndex:
         enableMarker: false
     randomNote: {}
+    copyNoteLink: {}
 workspace:
-    dendronVersion: 0.79.0
+    dendronVersion: 0.84.0
     vaults:
         -
             fsPath: vault
@@ -89,6 +74,33 @@ preview:
     enablePrettyRefs: false
     enableKatex: false
     automaticallyShowPreview: false
-mermaid: true
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
 dev:
     enablePreviewV2: true
+publishing:
+    enableFMTitle: true
+    enableNoteTitleForLink: true
+    enableMermaid: true
+    enablePrettyRefs: true
+    enableKatex: false
+    copyAssets: true
+    siteHierarchies:
+        - pkm
+    enableSiteLastModified: true
+    siteRootDir: docs
+    siteUrl: 'https://pkm.dendron.so'
+    enableFrontmatterTags: true
+    enableHashesForFMTags: false
+    enableRandomlyColoredTags: true
+    writeStubs: false
+    seo:
+        title: PKM
+        description: Personal knowledge space
+    github:
+        enableEditLink: true
+        editLinkText: Edit this page on GitHub
+        editBranch: main
+        editViewMode: tree
+        editRepository: 'https://github.com/dendronhq/catalogue-open-pkm'
+    enablePrettyLinks: true

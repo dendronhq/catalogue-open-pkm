@@ -1,6 +1,6 @@
 ---
 id: 34129480-2352-465c-a357-28a3ae9ba86f
-title: 'Pen and Paper'
+title: Pen and Paper
 desc: ''
 updated: 1622300583255
 created: 1622300583255
@@ -16,5 +16,5 @@ created: 1622300583255
 ## Methods
 
 <!-- What [[pkm.methods]] is this tool well suited for?-->
-- [[pkm.methods.zettelkasten]]
+- [[pkm.workflows.zettelkasten]]
 

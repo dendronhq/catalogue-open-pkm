@@ -12,9 +12,9 @@ Networked notes organizes notes like a graph with each note having the possibili
 
 ## Features
 
-![[pkm.ref.bi-directional-links#summary,1:#*]]
+![[pkm.ref.feat.bi-directional-links#summary,1:#*]]
 
-![[pkm.ref.graph-view]]
+![[pkm.ref.feat.graph-view]]
 
 ## Getting Started
 
@@ -22,12 +22,12 @@ Networked notes organizes notes like a graph with each note having the possibili
 
 ## Tools
 
-Networked notes are most easily achieved using notes that support [[backlinks|pkm.ref.backlinks]].
+Networked notes are most easily achieved using notes that support [[backlinks|pkm.ref.feat.backlinks]].
 
 Some tools particularly well suited for this:
 
-- [[Roam|pkm.tools.roam]]
-- [[Logseq|pkm.tools.logseq]]
+- [[Roam|pkm.ref.tools.roam]]
+- [[Logseq|pkm.ref.tools.logseq]]
 
 # Resources
 

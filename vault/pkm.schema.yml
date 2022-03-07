@@ -4,20 +4,22 @@ schemas:
   - id: pkm
     parent: root
     children:
-      - methods
-      - tools
+      - workflows
       - ref
-  - id: methods
+  - id: workflows
     namespace: true
     template:
-      id: pkm.templates.methods
+      id: about.templates.workflows
       type: note
   - id: ref
+    children:
+      - tools
+      - feat
     namespace: true
   - id: tools
     namespace: true
     template:
-      id: pkm.templates.tools
+      id: about.tools
       type: note
-  - id: templates
+  - id: feat
     namespace: true

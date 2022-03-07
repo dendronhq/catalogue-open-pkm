@@ -17,15 +17,15 @@ You can use Dendron to **create, find, collaborate** with the information that *
 
 ## Features
 
-- [[Path Traversal|pkm.ref.path-traversal]]
-- [[Modeless Operation|pkm.ref.modeless-operation]]
-- [[Wiki Links|pkm.ref.wiki-link]]
-- [[Plain Text|pkm.ref.plain-text]]
+- [[Path Traversal|pkm.ref.feat.path-traversal]]
+- [[Modeless Operation|pkm.ref.feat.modeless-operation]]
+- [[Wiki Links|pkm.ref.feat.wiki-link]]
+- [[Plain Text|pkm.ref.feat.plain-text]]
 
 ## Methods
 
-- [[Hierarchal Notes|pkm.methods.hierarchical-notes]]
-- [[Networked Notes|pkm.methods.networked-notes]]
-- [[Bullet Journal|pkm.methods.bullet-journal]]
-- [[PARA|pkm.methods.para]]
+- [[Hierarchal Notes|pkm.workflows.hierarchical-notes]]
+- [[Networked Notes|pkm.workflows.networked-notes]]
+- [[Bullet Journal|pkm.workflows.bullet-journal]]
+- [[PARA|pkm.workflows.para]]
 
