@@ -5,3 +5,5 @@ vault/.dendron.cache.json
 .dendron.port
 .dendron.ws
 node_modules
+
+.next
