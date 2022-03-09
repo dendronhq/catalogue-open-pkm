@@ -2,7 +2,7 @@
 id: zv68xsswnp6znc7kol0dg2a
 title: Notion
 desc: ''
-updated: 1646848529349
+updated: 1646852837193
 created: 1646848287846
 ---
 - [website](https://notion.so/)

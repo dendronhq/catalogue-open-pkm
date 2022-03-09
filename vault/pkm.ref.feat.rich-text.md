@@ -2,7 +2,7 @@
 id: qr5djrgdy8m8fqca3uimwy8
 title: Rich Text
 desc: ''
-updated: 1646848202402
+updated: 1646852854884
 created: 1646848177493
 ---
 Rich text is used to describe text data that is styled with fonts and formatting. As opposed to plain text, rich text allows the customization over character's size, color, font, formatting and more. We use rich text commonly in word processors like Word and Google Docs. 
