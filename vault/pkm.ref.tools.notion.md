@@ -7,7 +7,7 @@ created: 1646848287846
 ---
 - [website](https://notion.so/)
 
-Notion adopts a block-based approach to managing projects, notes, wikis and more. Notion declares itself a *bin of building blocks* and likens it's workflow to combining together LEGO® blocks to create documents, databases, websites, knowledge bases, and more.  
+Notion adopts a block-based approach to managing projects, notes, wikis and more. Notion declares itself a *bin of building blocks* and likens its workflow to combining together LEGO® blocks to create documents, databases, websites, knowledge bases, and more.  
 
 Notion allows the creation of hierarchies of pages, which can be filled with blocks.  Notion offers a WYSIWYG ("What You See Is What You Get") editor, supporting both Markdown and rich text, to edit these pages and blocks. 
 
