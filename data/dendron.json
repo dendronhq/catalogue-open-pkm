@@ -1,0 +1,132 @@
+{
+  "version": 5,
+  "commands": {
+    "lookup": {
+      "note": {
+        "selectionMode": "extract",
+        "confirmVaultOnCreate": true,
+        "leaveTrace": false,
+        "bubbleUpCreateNew": true,
+        "vaultSelectionModeOnCreate": "smart",
+        "fuzzThreshold": 0.2
+      }
+    },
+    "insertNote": {
+      "initialValue": "templates"
+    },
+    "insertNoteLink": {
+      "aliasMode": "none",
+      "enableMultiSelect": false
+    },
+    "insertNoteIndex": {
+      "enableMarker": false
+    },
+    "randomNote": {},
+    "copyNoteLink": {}
+  },
+  "workspace": {
+    "dendronVersion": "0.84.0",
+    "vaults": [
+      {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      }
+    ],
+    "journal": {
+      "dailyDomain": "daily",
+      "name": "journal",
+      "dateFormat": "y.MM.dd",
+      "addBehavior": "childOfDomain"
+    },
+    "scratch": {
+      "name": "scratch",
+      "dateFormat": "y.MM.dd.HHmmss",
+      "addBehavior": "asOwnDomain"
+    },
+    "graph": {
+      "zoomSpeed": 1
+    },
+    "enableAutoCreateOnDefinition": false,
+    "enableXVaultWikiLink": false,
+    "enableRemoteVaultInit": true,
+    "workspaceVaultSyncMode": "noCommit",
+    "enableAutoFoldFrontmatter": false,
+    "maxPreviewsCached": 10,
+    "maxNoteLength": 204800,
+    "task": {
+      "name": "",
+      "dateFormat": "",
+      "addBehavior": "childOfCurrent",
+      "statusSymbols": {
+        "": " ",
+        "wip": "w",
+        "done": "x",
+        "assigned": "a",
+        "moved": "m",
+        "blocked": "b",
+        "delegated": "l",
+        "dropped": "d",
+        "pending": "y"
+      },
+      "prioritySymbols": {
+        "H": "high",
+        "M": "medium",
+        "L": "low"
+      },
+      "todoIntegration": false,
+      "createTaskSelectionType": "selection2link"
+    },
+    "enableUserTags": true,
+    "enableHashTags": true,
+    "enableEditorDecorations": true
+  },
+  "preview": {
+    "enableFMTitle": true,
+    "enableNoteTitleForLink": true,
+    "enableMermaid": true,
+    "enablePrettyRefs": false,
+    "enableKatex": false,
+    "automaticallyShowPreview": false,
+    "enableFrontmatterTags": true,
+    "enableHashesForFMTags": false
+  },
+  "dev": {
+    "enablePreviewV2": true
+  },
+  "publishing": {
+    "enableFMTitle": true,
+    "enableNoteTitleForLink": true,
+    "enableMermaid": true,
+    "enablePrettyRefs": true,
+    "enableKatex": false,
+    "copyAssets": true,
+    "siteHierarchies": [
+      "pkm"
+    ],
+    "enableSiteLastModified": true,
+    "siteRootDir": "docs",
+    "siteUrl": "https://pkm.dendron.so",
+    "enableFrontmatterTags": true,
+    "enableHashesForFMTags": false,
+    "enableRandomlyColoredTags": true,
+    "writeStubs": false,
+    "seo": {
+      "title": "PKM",
+      "description": "Personal knowledge space"
+    },
+    "github": {
+      "enableEditLink": true,
+      "editLinkText": "Edit this page on GitHub",
+      "editBranch": "main",
+      "editViewMode": "tree",
+      "editRepository": "https://github.com/dendronhq/catalogue-open-pkm"
+    },
+    "enablePrettyLinks": true,
+    "siteFaviconPath": "favicon.ico",
+    "siteIndex": "pkm"
+  }
+}

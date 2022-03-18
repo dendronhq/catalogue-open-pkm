@@ -1,0 +1,6719 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1647567513133,
+      "created": 1647567513133,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c": {
+      "id": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+      "title": "The Open PKM Catalogue",
+      "desc": "",
+      "updated": 1620802956569,
+      "created": 1601139532663,
+      "stub": false,
+      "custom": {
+        "stub": false,
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "pkm",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "4bdfa857320edbe5cd5d38ac04317de1",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm",
+            "id": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about",
+          "alias": "here",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 82,
+              "offset": 399
+            },
+            "end": {
+              "line": 7,
+              "column": 100,
+              "offset": 417
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "c13508ee-7e34-4e01-bf22-72da545c9f8f",
+        "xa2xq1r8vpv2lar6hbqm0pl",
+        "84412de7-591f-4e73-b020-b93a322078db"
+      ],
+      "parent": null,
+      "data": {},
+      "schema": {
+        "schemaId": "pkm",
+        "moduleId": "pkm"
+      }
+    },
+    "84412de7-591f-4e73-b020-b93a322078db": {
+      "id": "84412de7-591f-4e73-b020-b93a322078db",
+      "title": "Workflows",
+      "desc": "",
+      "updated": 1601139459002,
+      "created": 1601139459002,
+      "custom": {},
+      "fname": "pkm.workflows",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "780b825cf34d309444ff970b028b2931",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "e9525aeb-17b6-4fd8-86be-c960e0630171",
+        "92db8511-ff54-488e-91f2-022325d7e16c",
+        "eb7a54ee-c5a6-4fd3-911d-d9cd8ff94636",
+        "a41c0ae1-7df7-42d3-a5ca-37bd231da577",
+        "20855ea8-0f1d-49bd-80ca-7b807ef77bbf",
+        "3297052e-4591-4190-9975-4e4bd30b8931"
+      ],
+      "parent": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+      "data": {},
+      "schema": {
+        "schemaId": "workflows",
+        "moduleId": "pkm"
+      }
+    },
+    "3297052e-4591-4190-9975-4e4bd30b8931": {
+      "id": "3297052e-4591-4190-9975-4e4bd30b8931",
+      "title": "Zettelkasten",
+      "desc": "",
+      "updated": 1601139466354,
+      "created": 1601139466354,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.workflows.zettelkasten",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "db919e8d20c4345b17112b2c3371e9b2",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.tools.pen-paper",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 272
+            },
+            "end": {
+              "line": 12,
+              "column": 33,
+              "offset": 302
+            },
+            "indent": []
+          },
+          "value": "pkm.workflows.zettelkasten",
+          "alias": "pkm.workflows.zettelkasten"
+        }
+      ],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "guiding-principles": {
+          "type": "header",
+          "text": "Guiding principles",
+          "value": "guiding-principles",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "arbitrary-branching": {
+          "type": "header",
+          "text": "Arbitrary Branching",
+          "value": "arbitrary-branching",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        },
+        "linking": {
+          "type": "header",
+          "text": "Linking",
+          "value": "linking",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        },
+        "registers": {
+          "type": "header",
+          "text": "Registers",
+          "value": "registers",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "accidents-are-crucial": {
+          "type": "header",
+          "text": "Accidents are crucial",
+          "value": "accidents-are-crucial",
+          "line": 28,
+          "column": 0,
+          "depth": 3
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "further-reading": {
+          "type": "header",
+          "text": "Further Reading",
+          "value": "further-reading",
+          "line": 39,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "84412de7-591f-4e73-b020-b93a322078db",
+      "data": {},
+      "schema": {
+        "schemaId": "workflows",
+        "moduleId": "pkm"
+      }
+    },
+    "20855ea8-0f1d-49bd-80ca-7b807ef77bbf": {
+      "id": "20855ea8-0f1d-49bd-80ca-7b807ef77bbf",
+      "title": "PARA",
+      "desc": "",
+      "updated": 1646848156616,
+      "created": 1601139492328,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.workflows.para",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "794fbb1fc710ffa265a586ddb0ed5a12",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 3,
+              "offset": 829
+            },
+            "end": {
+              "line": 23,
+              "column": 30,
+              "offset": 856
+            },
+            "indent": []
+          },
+          "value": "pkm.workflows.para",
+          "alias": "PARA"
+        }
+      ],
+      "anchors": {
+        "project": {
+          "type": "header",
+          "text": "Project",
+          "value": "project",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "area": {
+          "type": "header",
+          "text": "Area",
+          "value": "area",
+          "line": 13,
+          "column": 0,
+          "depth": 3
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        },
+        "archive": {
+          "type": "header",
+          "text": "Archive",
+          "value": "archive",
+          "line": 19,
+          "column": 0,
+          "depth": 3
+        },
+        "resources-1": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources-1",
+          "line": 25,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "84412de7-591f-4e73-b020-b93a322078db",
+      "data": {},
+      "schema": {
+        "schemaId": "workflows",
+        "moduleId": "pkm"
+      }
+    },
+    "a41c0ae1-7df7-42d3-a5ca-37bd231da577": {
+      "id": "a41c0ae1-7df7-42d3-a5ca-37bd231da577",
+      "title": "Networked Notes",
+      "desc": "",
+      "updated": 1601948371561,
+      "created": 1601948371561,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.workflows.networked-notes",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "73649eb085cc0716683e54a766629a8a",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.workflows.networked-notes",
+            "id": "a41c0ae1-7df7-42d3-a5ca-37bd231da577",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.backlinks",
+          "alias": "backlinks",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 67,
+              "offset": 344
+            },
+            "end": {
+              "line": 17,
+              "column": 103,
+              "offset": 380
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.backlinks"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.workflows.networked-notes",
+            "id": "a41c0ae1-7df7-42d3-a5ca-37bd231da577",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.tools.roam",
+          "alias": "Roam",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 3,
+              "offset": 432
+            },
+            "end": {
+              "line": 21,
+              "column": 30,
+              "offset": 459
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.tools.roam"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.workflows.networked-notes",
+            "id": "a41c0ae1-7df7-42d3-a5ca-37bd231da577",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.tools.logseq",
+          "alias": "Logseq",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 3,
+              "offset": 462
+            },
+            "end": {
+              "line": 22,
+              "column": 34,
+              "offset": 493
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.tools.logseq"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "pkm.workflows.networked-notes",
+            "id": "a41c0ae1-7df7-42d3-a5ca-37bd231da577",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.bi-directional-links",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 1,
+              "offset": 157
+            },
+            "end": {
+              "line": 7,
+              "column": 52,
+              "offset": 208
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "pkm.ref.feat.bi-directional-links",
+            "anchorHeader": "summary,1:#*"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "pkm.workflows.networked-notes",
+            "id": "a41c0ae1-7df7-42d3-a5ca-37bd231da577",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.graph-view",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 1,
+              "offset": 210
+            },
+            "end": {
+              "line": 9,
+              "column": 29,
+              "offset": 238
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "pkm.ref.feat.graph-view"
+          }
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 3,
+              "offset": 727
+            },
+            "end": {
+              "line": 21,
+              "column": 52,
+              "offset": 776
+            },
+            "indent": []
+          },
+          "value": "pkm.workflows.networked-notes",
+          "alias": "Networked Notes"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 3,
+              "offset": 1108
+            },
+            "end": {
+              "line": 20,
+              "column": 53,
+              "offset": 1158
+            },
+            "indent": []
+          },
+          "value": "pkm.workflows.networked-notes",
+          "alias": "Networked notes"
+        }
+      ],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "getting-started": {
+          "type": "header",
+          "text": "Getting Started",
+          "value": "getting-started",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 31,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "84412de7-591f-4e73-b020-b93a322078db",
+      "data": {},
+      "schema": {
+        "schemaId": "workflows",
+        "moduleId": "pkm"
+      }
+    },
+    "eb7a54ee-c5a6-4fd3-911d-d9cd8ff94636": {
+      "id": "eb7a54ee-c5a6-4fd3-911d-d9cd8ff94636",
+      "title": "Hierarchical Notes",
+      "desc": "",
+      "updated": 1646774144635,
+      "created": 1601140330391,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.workflows.hierarchical-notes",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "ec06978b70062b0b430b48c68ae8c48c",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "pkm.workflows.hierarchical-notes",
+            "id": "eb7a54ee-c5a6-4fd3-911d-d9cd8ff94636",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.path-traversal",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 1,
+              "offset": 188
+            },
+            "end": {
+              "line": 9,
+              "column": 33,
+              "offset": 220
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "pkm.ref.feat.path-traversal"
+          }
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.impl.hierarchies-and-dendron",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 11,
+              "offset": 66
+            },
+            "end": {
+              "line": 11,
+              "column": 47,
+              "offset": 102
+            },
+            "indent": []
+          },
+          "value": "pkm.workflows.hierarchical-notes",
+          "alias": "pkm.workflows.hierarchical-notes"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 3,
+              "offset": 671
+            },
+            "end": {
+              "line": 20,
+              "column": 56,
+              "offset": 724
+            },
+            "indent": []
+          },
+          "value": "pkm.workflows.hierarchical-notes",
+          "alias": "Hierarchal Notes"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 3,
+              "offset": 1049
+            },
+            "end": {
+              "line": 19,
+              "column": 59,
+              "offset": 1105
+            },
+            "indent": []
+          },
+          "value": "pkm.workflows.hierarchical-notes",
+          "alias": "Hierarchical notes"
+        }
+      ],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "path-traversal": {
+          "type": "header",
+          "text": "Path Traversal",
+          "value": "path-traversal",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "getting-started": {
+          "type": "header",
+          "text": "Getting Started",
+          "value": "getting-started",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 33,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "84412de7-591f-4e73-b020-b93a322078db",
+      "data": {},
+      "schema": {
+        "schemaId": "workflows",
+        "moduleId": "pkm"
+      }
+    },
+    "92db8511-ff54-488e-91f2-022325d7e16c": {
+      "id": "92db8511-ff54-488e-91f2-022325d7e16c",
+      "title": "Commonplace Books",
+      "desc": "",
+      "updated": 1601139486911,
+      "created": 1601139486911,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.workflows.commonplace-book",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "35223c02076e9157f4c290814703e094",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "84412de7-591f-4e73-b020-b93a322078db",
+      "data": {},
+      "schema": {
+        "schemaId": "workflows",
+        "moduleId": "pkm"
+      }
+    },
+    "e9525aeb-17b6-4fd8-86be-c960e0630171": {
+      "id": "e9525aeb-17b6-4fd8-86be-c960e0630171",
+      "title": "Bullet Journal",
+      "desc": "",
+      "updated": 1622309844841,
+      "created": 1601303659741,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.workflows.bullet-journal",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "f4d7b52475d84103e2d223104373e333",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.workflows.bullet-journal",
+            "id": "e9525aeb-17b6-4fd8-86be-c960e0630171",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.tools.pen-paper",
+          "alias": "pkm.ref.tools.pen-paper",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 3,
+              "offset": 1624
+            },
+            "end": {
+              "line": 27,
+              "column": 30,
+              "offset": 1651
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.tools.pen-paper"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.workflows.bullet-journal",
+            "id": "e9525aeb-17b6-4fd8-86be-c960e0630171",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.tools.dendron",
+          "alias": "pkm.ref.tools.dendron",
+          "position": {
+            "start": {
+              "line": 28,
+              "column": 3,
+              "offset": 1654
+            },
+            "end": {
+              "line": 28,
+              "column": 28,
+              "offset": 1679
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.tools.dendron"
+          }
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.impl.bujo-and-dendron",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 11,
+              "offset": 900
+            },
+            "end": {
+              "line": 20,
+              "column": 43,
+              "offset": 932
+            },
+            "indent": []
+          },
+          "value": "pkm.workflows.bullet-journal",
+          "alias": "pkm.workflows.bullet-journal"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 3,
+              "offset": 779
+            },
+            "end": {
+              "line": 22,
+              "column": 50,
+              "offset": 826
+            },
+            "indent": []
+          },
+          "value": "pkm.workflows.bullet-journal",
+          "alias": "Bullet Journal"
+        }
+      ],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "getting-started": {
+          "type": "header",
+          "text": "Getting Started",
+          "value": "getting-started",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 37,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "84412de7-591f-4e73-b020-b93a322078db",
+      "data": {},
+      "schema": {
+        "schemaId": "workflows",
+        "moduleId": "pkm"
+      }
+    },
+    "xa2xq1r8vpv2lar6hbqm0pl": {
+      "id": "xa2xq1r8vpv2lar6hbqm0pl",
+      "title": "Reference",
+      "desc": "",
+      "updated": 1646668931363,
+      "created": 1646668603191,
+      "custom": {},
+      "fname": "pkm.ref",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "031ecc718a1719cc48fde0592eae1153",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "24dcfc79-c89b-4707-beec-490decd5cda5",
+        "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+        "5a6ae6d1-6513-4eba-a98d-84ceb947d812"
+      ],
+      "parent": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+      "data": {},
+      "schema": {
+        "schemaId": "ref",
+        "moduleId": "pkm"
+      }
+    },
+    "5a6ae6d1-6513-4eba-a98d-84ceb947d812": {
+      "id": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+      "title": "Tools",
+      "desc": "",
+      "updated": 1622901889026,
+      "created": 1601948469163,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.tools",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "15395cfa6454c53f01178e1c5ca90754",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "yMFXB0Q1cDzRF20q",
+        "d27a8fcc-f888-4b98-823e-f57c2e826cf9",
+        "b6ea844e-5193-4663-8030-5797ff32d901",
+        "dee28164-6ba6-4038-be1c-522c0f542b5e",
+        "zv68xsswnp6znc7kol0dg2a",
+        "2b20037d-af9c-4539-adc5-3062293da9eb",
+        "37bf862d-1f72-441e-a37a-7d21698e39d6",
+        "34129480-2352-465c-a357-28a3ae9ba86f",
+        "76cd9120-71d6-4f38-afe8-d51f91f65f05",
+        "d3f7e20e-1c29-4ef4-bc05-4735c4f8938d"
+      ],
+      "parent": "xa2xq1r8vpv2lar6hbqm0pl",
+      "data": {},
+      "schema": {
+        "schemaId": "ref",
+        "moduleId": "pkm"
+      }
+    },
+    "d3f7e20e-1c29-4ef4-bc05-4735c4f8938d": {
+      "id": "d3f7e20e-1c29-4ef4-bc05-4735c4f8938d",
+      "title": "Vim Wiki",
+      "desc": "",
+      "updated": 1601958316744,
+      "created": 1601958316744,
+      "custom": {},
+      "fname": "pkm.ref.tools.vim-wiki",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "26909edbb95f3525d2dd7c8df6397df7",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+      "data": {}
+    },
+    "76cd9120-71d6-4f38-afe8-d51f91f65f05": {
+      "id": "76cd9120-71d6-4f38-afe8-d51f91f65f05",
+      "title": "Roam",
+      "desc": "",
+      "updated": 1601954116199,
+      "created": 1601954116199,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.tools.roam",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "29adb2ff349026ce86d94e4c982019ba",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.workflows.networked-notes",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 3,
+              "offset": 432
+            },
+            "end": {
+              "line": 21,
+              "column": 30,
+              "offset": 459
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.tools.roam",
+          "alias": "Roam"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.feat.bi-directional-links",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 133
+            },
+            "end": {
+              "line": 7,
+              "column": 25,
+              "offset": 155
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.tools.roam",
+          "alias": "pkm.ref.tools.roam"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+      "data": {}
+    },
+    "34129480-2352-465c-a357-28a3ae9ba86f": {
+      "id": "34129480-2352-465c-a357-28a3ae9ba86f",
+      "title": "Pen and Paper",
+      "desc": "",
+      "updated": 1622300583255,
+      "created": 1622300583255,
+      "custom": {},
+      "fname": "pkm.ref.tools.pen-paper",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "3c97ce6e8911be4b13e865d5a924938f",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.pen-paper",
+            "id": "34129480-2352-465c-a357-28a3ae9ba86f",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.workflows.zettelkasten",
+          "alias": "pkm.workflows.zettelkasten",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 272
+            },
+            "end": {
+              "line": 12,
+              "column": 33,
+              "offset": 302
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.workflows.zettelkasten"
+          }
+        },
+        {
+          "from": {
+            "fname": "pkm.workflows.bullet-journal",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 3,
+              "offset": 1624
+            },
+            "end": {
+              "line": 27,
+              "column": 30,
+              "offset": 1651
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.tools.pen-paper",
+          "alias": "pkm.ref.tools.pen-paper"
+        }
+      ],
+      "anchors": {
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "methods": {
+          "type": "header",
+          "text": "Methods",
+          "value": "methods",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+      "data": {}
+    },
+    "37bf862d-1f72-441e-a37a-7d21698e39d6": {
+      "id": "37bf862d-1f72-441e-a37a-7d21698e39d6",
+      "title": "Obsidian",
+      "desc": "",
+      "updated": 1601956390581,
+      "created": 1601956390581,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.tools.obsidian",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "369754c4ea6f0892537611ffc1a37c4e",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat.bi-directional-links",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 158
+            },
+            "end": {
+              "line": 8,
+              "column": 29,
+              "offset": 184
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.tools.obsidian",
+          "alias": "pkm.ref.tools.obsidian"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+      "data": {}
+    },
+    "2b20037d-af9c-4539-adc5-3062293da9eb": {
+      "id": "2b20037d-af9c-4539-adc5-3062293da9eb",
+      "title": "nvALT",
+      "desc": "",
+      "updated": 1602088979088,
+      "created": 1602088979088,
+      "sources": [
+        {
+          "name": "",
+          "url": "https://brettterpstra.com/projects/nvalt/",
+          "license": ""
+        }
+      ],
+      "custom": {
+        "sources": [
+          {
+            "name": "",
+            "url": "https://brettterpstra.com/projects/nvalt/",
+            "license": ""
+          }
+        ]
+      },
+      "fname": "pkm.ref.tools.nv-alt",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "95a2ee44d2cf720d21a3596969479956",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.nv-alt",
+            "id": "2b20037d-af9c-4539-adc5-3062293da9eb",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.markdown",
+          "alias": "Markdown",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 380
+            },
+            "end": {
+              "line": 13,
+              "column": 37,
+              "offset": 414
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.markdown"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.nv-alt",
+            "id": "2b20037d-af9c-4539-adc5-3062293da9eb",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.markdown-preview",
+          "alias": "Markdown Preview",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 417
+            },
+            "end": {
+              "line": 14,
+              "column": 53,
+              "offset": 467
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.markdown-preview"
+          }
+        }
+      ],
+      "anchors": {
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "methods": {
+          "type": "header",
+          "text": "Methods",
+          "value": "methods",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+      "data": {}
+    },
+    "zv68xsswnp6znc7kol0dg2a": {
+      "id": "zv68xsswnp6znc7kol0dg2a",
+      "title": "Notion",
+      "desc": "",
+      "updated": 1647555211997,
+      "created": 1646848287846,
+      "custom": {},
+      "fname": "pkm.ref.tools.notion",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "cf631bb7da2fd70fb32d549ecbb4df82",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "id": "zv68xsswnp6znc7kol0dg2a",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.backlinks",
+          "alias": "Backlinks",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 841
+            },
+            "end": {
+              "line": 12,
+              "column": 39,
+              "offset": 877
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.backlinks"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "id": "zv68xsswnp6znc7kol0dg2a",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.wiki-link",
+          "alias": "Wiki Links",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 880
+            },
+            "end": {
+              "line": 13,
+              "column": 40,
+              "offset": 917
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.wiki-link"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "id": "zv68xsswnp6znc7kol0dg2a",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.templates",
+          "alias": "Templates",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 920
+            },
+            "end": {
+              "line": 14,
+              "column": 39,
+              "offset": 956
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.templates"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "id": "zv68xsswnp6znc7kol0dg2a",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.markdown",
+          "alias": "Markdown",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 3,
+              "offset": 959
+            },
+            "end": {
+              "line": 15,
+              "column": 37,
+              "offset": 993
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.markdown"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "id": "zv68xsswnp6znc7kol0dg2a",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.rich-text",
+          "alias": "Rich text",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 3,
+              "offset": 996
+            },
+            "end": {
+              "line": 16,
+              "column": 40,
+              "offset": 1033
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.rich-text"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "id": "zv68xsswnp6znc7kol0dg2a",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.workflows.hierarchical-notes",
+          "alias": "Hierarchical notes",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 3,
+              "offset": 1049
+            },
+            "end": {
+              "line": 19,
+              "column": 59,
+              "offset": 1105
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.workflows.hierarchical-notes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "id": "zv68xsswnp6znc7kol0dg2a",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.workflows.networked-notes",
+          "alias": "Networked notes",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 3,
+              "offset": 1108
+            },
+            "end": {
+              "line": 20,
+              "column": 53,
+              "offset": 1158
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.workflows.networked-notes"
+          }
+        }
+      ],
+      "anchors": {
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 17,
+          "column": 0,
+          "depth": 3
+        },
+        "methods": {
+          "type": "header",
+          "text": "Methods",
+          "value": "methods",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+      "data": {}
+    },
+    "dee28164-6ba6-4038-be1c-522c0f542b5e": {
+      "id": "dee28164-6ba6-4038-be1c-522c0f542b5e",
+      "title": "Notational velocity",
+      "desc": "",
+      "updated": 1601955277381,
+      "created": 1601955277381,
+      "custom": {},
+      "fname": "pkm.ref.tools.notational-velocity",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "7a7240c1e50891c4cbad159cec259e40",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+      "data": {}
+    },
+    "b6ea844e-5193-4663-8030-5797ff32d901": {
+      "id": "b6ea844e-5193-4663-8030-5797ff32d901",
+      "title": "Logseq",
+      "desc": "",
+      "updated": 1601954215350,
+      "created": 1601954215350,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.tools.logseq",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "50ad465aa1334d8db3e24527f248c278",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.logseq",
+            "id": "b6ea844e-5193-4663-8030-5797ff32d901",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.backlinks",
+          "alias": "pkm.ref.feat.backlinks",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 3,
+              "offset": 1646
+            },
+            "end": {
+              "line": 16,
+              "column": 29,
+              "offset": 1672
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.backlinks"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.logseq",
+            "id": "b6ea844e-5193-4663-8030-5797ff32d901",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.graph-view",
+          "alias": "pkm.ref.feat.graph-view",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 3,
+              "offset": 1675
+            },
+            "end": {
+              "line": 17,
+              "column": 30,
+              "offset": 1702
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.graph-view"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.logseq",
+            "id": "b6ea844e-5193-4663-8030-5797ff32d901",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.references",
+          "alias": "pkm.ref.feat.references",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 3,
+              "offset": 1705
+            },
+            "end": {
+              "line": 18,
+              "column": 30,
+              "offset": 1732
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.references"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.logseq",
+            "id": "b6ea844e-5193-4663-8030-5797ff32d901",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.tasks",
+          "alias": "pkm.ref.feat.tasks",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 3,
+              "offset": 1735
+            },
+            "end": {
+              "line": 19,
+              "column": 25,
+              "offset": 1757
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.tasks"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.logseq",
+            "id": "b6ea844e-5193-4663-8030-5797ff32d901",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.templates",
+          "alias": "pkm.ref.feat.templates",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 3,
+              "offset": 1760
+            },
+            "end": {
+              "line": 20,
+              "column": 29,
+              "offset": 1786
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.templates"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.logseq",
+            "id": "b6ea844e-5193-4663-8030-5797ff32d901",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.outlining",
+          "alias": "pkm.ref.feat.outlining",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 3,
+              "offset": 1789
+            },
+            "end": {
+              "line": 21,
+              "column": 29,
+              "offset": 1815
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.outlining"
+          }
+        },
+        {
+          "from": {
+            "fname": "pkm.workflows.networked-notes",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 3,
+              "offset": 462
+            },
+            "end": {
+              "line": 22,
+              "column": 34,
+              "offset": 493
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.tools.logseq",
+          "alias": "Logseq"
+        }
+      ],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+      "data": {}
+    },
+    "d27a8fcc-f888-4b98-823e-f57c2e826cf9": {
+      "id": "d27a8fcc-f888-4b98-823e-f57c2e826cf9",
+      "title": "Dendron",
+      "desc": "",
+      "updated": 1622902300410,
+      "created": 1601948479041,
+      "custom": {},
+      "fname": "pkm.ref.tools.dendron",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "ba20dbf1d8037218cc5800274440173d",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "id": "d27a8fcc-f888-4b98-823e-f57c2e826cf9",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.path-traversal",
+          "alias": "Path Traversal",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 471
+            },
+            "end": {
+              "line": 13,
+              "column": 49,
+              "offset": 517
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.path-traversal"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "id": "d27a8fcc-f888-4b98-823e-f57c2e826cf9",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.modeless-operation",
+          "alias": "Modeless Operation",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 520
+            },
+            "end": {
+              "line": 14,
+              "column": 57,
+              "offset": 574
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.modeless-operation"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "id": "d27a8fcc-f888-4b98-823e-f57c2e826cf9",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.wiki-link",
+          "alias": "Wiki Links",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 3,
+              "offset": 577
+            },
+            "end": {
+              "line": 15,
+              "column": 40,
+              "offset": 614
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.wiki-link"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "id": "d27a8fcc-f888-4b98-823e-f57c2e826cf9",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.plain-text",
+          "alias": "Plain Text",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 3,
+              "offset": 617
+            },
+            "end": {
+              "line": 16,
+              "column": 41,
+              "offset": 655
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.plain-text"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "id": "d27a8fcc-f888-4b98-823e-f57c2e826cf9",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.workflows.hierarchical-notes",
+          "alias": "Hierarchal Notes",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 3,
+              "offset": 671
+            },
+            "end": {
+              "line": 20,
+              "column": 56,
+              "offset": 724
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.workflows.hierarchical-notes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "id": "d27a8fcc-f888-4b98-823e-f57c2e826cf9",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.workflows.networked-notes",
+          "alias": "Networked Notes",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 3,
+              "offset": 727
+            },
+            "end": {
+              "line": 21,
+              "column": 52,
+              "offset": 776
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.workflows.networked-notes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "id": "d27a8fcc-f888-4b98-823e-f57c2e826cf9",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.workflows.bullet-journal",
+          "alias": "Bullet Journal",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 3,
+              "offset": 779
+            },
+            "end": {
+              "line": 22,
+              "column": 50,
+              "offset": 826
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.workflows.bullet-journal"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "id": "d27a8fcc-f888-4b98-823e-f57c2e826cf9",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.workflows.para",
+          "alias": "PARA",
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 3,
+              "offset": 829
+            },
+            "end": {
+              "line": 23,
+              "column": 30,
+              "offset": 856
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.workflows.para"
+          }
+        },
+        {
+          "from": {
+            "fname": "pkm.workflows.bullet-journal",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 28,
+              "column": 3,
+              "offset": 1654
+            },
+            "end": {
+              "line": 28,
+              "column": 28,
+              "offset": 1679
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.tools.dendron",
+          "alias": "pkm.ref.tools.dendron"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.impl.bujo-and-dendron",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 10,
+              "offset": 942
+            },
+            "end": {
+              "line": 21,
+              "column": 35,
+              "offset": 967
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.tools.dendron",
+          "alias": "pkm.ref.tools.dendron"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.impl.hierarchies-and-dendron",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 9,
+              "offset": 111
+            },
+            "end": {
+              "line": 12,
+              "column": 34,
+              "offset": 136
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.tools.dendron",
+          "alias": "pkm.ref.tools.dendron"
+        }
+      ],
+      "anchors": {
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "methods": {
+          "type": "header",
+          "text": "Methods",
+          "value": "methods",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+      "data": {}
+    },
+    "yMFXB0Q1cDzRF20q": {
+      "id": "yMFXB0Q1cDzRF20q",
+      "title": "Athens",
+      "desc": "",
+      "updated": 1626356539503,
+      "created": 1626356539503,
+      "custom": {},
+      "fname": "pkm.ref.tools.athens",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "a43810da7dabd8cc42091ece9d21523c",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.athens",
+            "id": "yMFXB0Q1cDzRF20q",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.graph-view",
+          "alias": "pkm.ref.feat.graph-view",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 467
+            },
+            "end": {
+              "line": 12,
+              "column": 30,
+              "offset": 494
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.graph-view"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.athens",
+            "id": "yMFXB0Q1cDzRF20q",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.outlining",
+          "alias": "pkm.ref.feat.outlining",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 497
+            },
+            "end": {
+              "line": 13,
+              "column": 29,
+              "offset": 523
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.outlining"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.tools.athens",
+            "id": "yMFXB0Q1cDzRF20q",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.references",
+          "alias": "pkm.ref.feat.references",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 526
+            },
+            "end": {
+              "line": 14,
+              "column": 30,
+              "offset": 553
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.references"
+          }
+        }
+      ],
+      "anchors": {
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "methods": {
+          "type": "header",
+          "text": "Methods",
+          "value": "methods",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+      "data": {}
+    },
+    "7c64cee9-69a8-48c3-9c0b-5dd031243204": {
+      "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+      "title": "Implementation",
+      "desc": "",
+      "updated": 1622902945978,
+      "created": 1622901768758,
+      "custom": {},
+      "fname": "pkm.ref.impl",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "9e8c1cb17b25068ed37dd4eed46a6d6f",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.impl.hierarchies-and-dendron",
+          "alias": "pkm.ref.impl.hierarchies-and-dendron",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 24,
+              "offset": 434
+            },
+            "end": {
+              "line": 4,
+              "column": 64,
+              "offset": 474
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.impl.hierarchies-and-dendron"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 67,
+              "offset": 477
+            },
+            "end": {
+              "line": 4,
+              "column": 88,
+              "offset": 498
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 104,
+              "offset": 514
+            },
+            "end": {
+              "line": 4,
+              "column": 125,
+              "offset": 535
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 128,
+              "offset": 538
+            },
+            "end": {
+              "line": 4,
+              "column": 149,
+              "offset": 559
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 152,
+              "offset": 562
+            },
+            "end": {
+              "line": 4,
+              "column": 173,
+              "offset": 583
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 176,
+              "offset": 586
+            },
+            "end": {
+              "line": 4,
+              "column": 197,
+              "offset": 607
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 200,
+              "offset": 610
+            },
+            "end": {
+              "line": 4,
+              "column": 221,
+              "offset": 631
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 224,
+              "offset": 634
+            },
+            "end": {
+              "line": 4,
+              "column": 245,
+              "offset": 655
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.impl.bujo-and-dendron",
+          "alias": "pkm.ref.impl.bujo-and-dendron",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 24,
+              "offset": 685
+            },
+            "end": {
+              "line": 5,
+              "column": 57,
+              "offset": 718
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.impl.bujo-and-dendron"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 67,
+              "offset": 728
+            },
+            "end": {
+              "line": 5,
+              "column": 88,
+              "offset": 749
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 104,
+              "offset": 765
+            },
+            "end": {
+              "line": 5,
+              "column": 125,
+              "offset": 786
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 128,
+              "offset": 789
+            },
+            "end": {
+              "line": 5,
+              "column": 149,
+              "offset": 810
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 152,
+              "offset": 813
+            },
+            "end": {
+              "line": 5,
+              "column": 173,
+              "offset": 834
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 176,
+              "offset": 837
+            },
+            "end": {
+              "line": 5,
+              "column": 197,
+              "offset": 858
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 200,
+              "offset": 861
+            },
+            "end": {
+              "line": 5,
+              "column": 221,
+              "offset": 882
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 224,
+              "offset": 885
+            },
+            "end": {
+              "line": 5,
+              "column": 245,
+              "offset": 906
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 24,
+              "offset": 936
+            },
+            "end": {
+              "line": 6,
+              "column": 45,
+              "offset": 957
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 69,
+              "offset": 981
+            },
+            "end": {
+              "line": 6,
+              "column": 90,
+              "offset": 1002
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 106,
+              "offset": 1018
+            },
+            "end": {
+              "line": 6,
+              "column": 127,
+              "offset": 1039
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 130,
+              "offset": 1042
+            },
+            "end": {
+              "line": 6,
+              "column": 151,
+              "offset": 1063
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 154,
+              "offset": 1066
+            },
+            "end": {
+              "line": 6,
+              "column": 175,
+              "offset": 1087
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 178,
+              "offset": 1090
+            },
+            "end": {
+              "line": 6,
+              "column": 199,
+              "offset": 1111
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 202,
+              "offset": 1114
+            },
+            "end": {
+              "line": 6,
+              "column": 223,
+              "offset": 1135
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 226,
+              "offset": 1138
+            },
+            "end": {
+              "line": 6,
+              "column": 247,
+              "offset": 1159
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 24,
+              "offset": 1189
+            },
+            "end": {
+              "line": 7,
+              "column": 45,
+              "offset": 1210
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.impl.zettl-pen-paper",
+          "alias": "pkm.ref.impl.zettl-pen-paper",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 69,
+              "offset": 1234
+            },
+            "end": {
+              "line": 7,
+              "column": 101,
+              "offset": 1266
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.impl.zettl-pen-paper"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 104,
+              "offset": 1269
+            },
+            "end": {
+              "line": 7,
+              "column": 125,
+              "offset": 1290
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 128,
+              "offset": 1293
+            },
+            "end": {
+              "line": 7,
+              "column": 149,
+              "offset": 1314
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 152,
+              "offset": 1317
+            },
+            "end": {
+              "line": 7,
+              "column": 173,
+              "offset": 1338
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 176,
+              "offset": 1341
+            },
+            "end": {
+              "line": 7,
+              "column": 197,
+              "offset": 1362
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 200,
+              "offset": 1365
+            },
+            "end": {
+              "line": 7,
+              "column": 221,
+              "offset": 1386
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 224,
+              "offset": 1389
+            },
+            "end": {
+              "line": 7,
+              "column": 245,
+              "offset": 1410
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 24,
+              "offset": 1440
+            },
+            "end": {
+              "line": 8,
+              "column": 45,
+              "offset": 1461
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 69,
+              "offset": 1485
+            },
+            "end": {
+              "line": 8,
+              "column": 90,
+              "offset": 1506
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 106,
+              "offset": 1522
+            },
+            "end": {
+              "line": 8,
+              "column": 127,
+              "offset": 1543
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 130,
+              "offset": 1546
+            },
+            "end": {
+              "line": 8,
+              "column": 151,
+              "offset": 1567
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 154,
+              "offset": 1570
+            },
+            "end": {
+              "line": 8,
+              "column": 175,
+              "offset": 1591
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 178,
+              "offset": 1594
+            },
+            "end": {
+              "line": 8,
+              "column": 199,
+              "offset": 1615
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 202,
+              "offset": 1618
+            },
+            "end": {
+              "line": 8,
+              "column": 223,
+              "offset": 1639
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 226,
+              "offset": 1642
+            },
+            "end": {
+              "line": 8,
+              "column": 247,
+              "offset": 1663
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 24,
+              "offset": 1693
+            },
+            "end": {
+              "line": 9,
+              "column": 45,
+              "offset": 1714
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 69,
+              "offset": 1738
+            },
+            "end": {
+              "line": 9,
+              "column": 90,
+              "offset": 1759
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 106,
+              "offset": 1775
+            },
+            "end": {
+              "line": 9,
+              "column": 127,
+              "offset": 1796
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 130,
+              "offset": 1799
+            },
+            "end": {
+              "line": 9,
+              "column": 151,
+              "offset": 1820
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 154,
+              "offset": 1823
+            },
+            "end": {
+              "line": 9,
+              "column": 175,
+              "offset": 1844
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 178,
+              "offset": 1847
+            },
+            "end": {
+              "line": 9,
+              "column": 199,
+              "offset": 1868
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 202,
+              "offset": 1871
+            },
+            "end": {
+              "line": 9,
+              "column": 223,
+              "offset": 1892
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "alias": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 226,
+              "offset": 1895
+            },
+            "end": {
+              "line": 9,
+              "column": 247,
+              "offset": 1916
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "pkm.ref.impl",
+            "id": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.err.nie",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 1,
+              "offset": 1924
+            },
+            "end": {
+              "line": 11,
+              "column": 23,
+              "offset": 1946
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "pkm.about.err.nie"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "61f3b580-d10a-467b-b4d1-ffadfe44183d",
+        "926044ea-038c-4174-a4fc-349f71b8b661",
+        "W8MYNrS1yWDF5Ihv"
+      ],
+      "parent": "xa2xq1r8vpv2lar6hbqm0pl",
+      "data": {},
+      "schema": {
+        "schemaId": "ref",
+        "moduleId": "pkm"
+      }
+    },
+    "W8MYNrS1yWDF5Ihv": {
+      "id": "W8MYNrS1yWDF5Ihv",
+      "title": "Zettelkasten with Pen and Paper",
+      "desc": "",
+      "updated": 1626357825082,
+      "created": 1626357825082,
+      "custom": {},
+      "fname": "pkm.ref.impl.zettl-pen-paper",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "47e2f4fcbef50836a7a9289b60c048f1",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.impl",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 69,
+              "offset": 1234
+            },
+            "end": {
+              "line": 7,
+              "column": 101,
+              "offset": 1266
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.impl.zettl-pen-paper",
+          "alias": "pkm.ref.impl.zettl-pen-paper"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+      "data": {}
+    },
+    "926044ea-038c-4174-a4fc-349f71b8b661": {
+      "id": "926044ea-038c-4174-a4fc-349f71b8b661",
+      "title": "Hierarchical notes and Dendron",
+      "desc": "",
+      "updated": 1622903183208,
+      "created": 1622902945897,
+      "custom": {},
+      "fname": "pkm.ref.impl.hierarchies-and-dendron",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "7ba3f419df7f51c95268e2e2218414fa",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl.hierarchies-and-dendron",
+            "id": "926044ea-038c-4174-a4fc-349f71b8b661",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.workflows.hierarchical-notes",
+          "alias": "pkm.workflows.hierarchical-notes",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 11,
+              "offset": 66
+            },
+            "end": {
+              "line": 11,
+              "column": 47,
+              "offset": 102
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.workflows.hierarchical-notes"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl.hierarchies-and-dendron",
+            "id": "926044ea-038c-4174-a4fc-349f71b8b661",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.tools.dendron",
+          "alias": "pkm.ref.tools.dendron",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 9,
+              "offset": 111
+            },
+            "end": {
+              "line": 12,
+              "column": 34,
+              "offset": 136
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.tools.dendron"
+          }
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.impl",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 24,
+              "offset": 434
+            },
+            "end": {
+              "line": 4,
+              "column": 64,
+              "offset": 474
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.impl.hierarchies-and-dendron",
+          "alias": "pkm.ref.impl.hierarchies-and-dendron"
+        }
+      ],
+      "anchors": {
+        "example": {
+          "type": "header",
+          "text": "Example",
+          "value": "example",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "quickstart": {
+          "type": "header",
+          "text": "Quickstart",
+          "value": "quickstart",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+      "data": {}
+    },
+    "61f3b580-d10a-467b-b4d1-ffadfe44183d": {
+      "id": "61f3b580-d10a-467b-b4d1-ffadfe44183d",
+      "title": "Bullet Journaling and Dendron",
+      "desc": "",
+      "updated": 1623822597737,
+      "created": 1622902195004,
+      "custom": {},
+      "fname": "pkm.ref.impl.bujo-and-dendron",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "29be83c8309fae6956cd9188f606a758",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl.bujo-and-dendron",
+            "id": "61f3b580-d10a-467b-b4d1-ffadfe44183d",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.workflows.bullet-journal",
+          "alias": "pkm.workflows.bullet-journal",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 11,
+              "offset": 900
+            },
+            "end": {
+              "line": 20,
+              "column": 43,
+              "offset": 932
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.workflows.bullet-journal"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.impl.bujo-and-dendron",
+            "id": "61f3b580-d10a-467b-b4d1-ffadfe44183d",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.tools.dendron",
+          "alias": "pkm.ref.tools.dendron",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 10,
+              "offset": 942
+            },
+            "end": {
+              "line": 21,
+              "column": 35,
+              "offset": 967
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.tools.dendron"
+          }
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.impl",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 24,
+              "offset": 685
+            },
+            "end": {
+              "line": 5,
+              "column": 57,
+              "offset": 718
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.impl.bujo-and-dendron",
+          "alias": "pkm.ref.impl.bujo-and-dendron"
+        }
+      ],
+      "anchors": {
+        "example": {
+          "type": "header",
+          "text": "Example",
+          "value": "example",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "quickstart": {
+          "type": "header",
+          "text": "Quickstart",
+          "value": "quickstart",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "demo-video": {
+          "type": "header",
+          "text": "Demo video",
+          "value": "demo-video",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+      "data": {}
+    },
+    "24dcfc79-c89b-4707-beec-490decd5cda5": {
+      "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "title": "Features",
+      "desc": "",
+      "updated": 1647555213486,
+      "created": 1601953378158,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.feat",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "3175fa0378b1e46fc813c2f5edb0ec2a",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.modeless-operation",
+          "alias": "Modeless Operation",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 15
+            },
+            "end": {
+              "line": 3,
+              "column": 57,
+              "offset": 69
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.modeless-operation"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.modal-operation",
+          "alias": "Modal Operation",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 72
+            },
+            "end": {
+              "line": 4,
+              "column": 51,
+              "offset": 120
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.modal-operation"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.plain-text",
+          "alias": "Plain Text",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 137
+            },
+            "end": {
+              "line": 7,
+              "column": 42,
+              "offset": 176
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.plain-text"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.markdown",
+          "alias": "Markdown",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 179
+            },
+            "end": {
+              "line": 8,
+              "column": 38,
+              "offset": 214
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.markdown"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.rich-text",
+          "alias": "Rich Text",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 217
+            },
+            "end": {
+              "line": 9,
+              "column": 40,
+              "offset": 254
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.rich-text"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.backlinks",
+          "alias": "Backlinks",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 269
+            },
+            "end": {
+              "line": 12,
+              "column": 40,
+              "offset": 306
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.backlinks"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.bi-directional-links",
+          "alias": "Bi-Directional Links",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 309
+            },
+            "end": {
+              "line": 13,
+              "column": 62,
+              "offset": 368
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.bi-directional-links"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.wiki-link",
+          "alias": "Wiki Link",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 371
+            },
+            "end": {
+              "line": 14,
+              "column": 40,
+              "offset": 408
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.wiki-link"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.references",
+          "alias": "References",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 3,
+              "offset": 411
+            },
+            "end": {
+              "line": 15,
+              "column": 42,
+              "offset": 450
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.references"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.markdown-preview",
+          "alias": "Markdown Preview",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 3,
+              "offset": 465
+            },
+            "end": {
+              "line": 19,
+              "column": 54,
+              "offset": 516
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.markdown-preview"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.graph-view",
+          "alias": "Graph View",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 3,
+              "offset": 519
+            },
+            "end": {
+              "line": 20,
+              "column": 42,
+              "offset": 558
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.graph-view"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.outlining",
+          "alias": "Outlining",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 3,
+              "offset": 561
+            },
+            "end": {
+              "line": 21,
+              "column": 40,
+              "offset": 598
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.outlining"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.path-traversal",
+          "alias": "Path Traversal",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 3,
+              "offset": 613
+            },
+            "end": {
+              "line": 24,
+              "column": 50,
+              "offset": 660
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.path-traversal"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.full-text-search",
+          "alias": "Full-text Search",
+          "position": {
+            "start": {
+              "line": 25,
+              "column": 3,
+              "offset": 663
+            },
+            "end": {
+              "line": 25,
+              "column": 54,
+              "offset": 714
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.full-text-search"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.tasks",
+          "alias": "Tasks",
+          "position": {
+            "start": {
+              "line": 28,
+              "column": 3,
+              "offset": 731
+            },
+            "end": {
+              "line": 28,
+              "column": 32,
+              "offset": 760
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.tasks"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.tags",
+          "alias": "Tags",
+          "position": {
+            "start": {
+              "line": 29,
+              "column": 3,
+              "offset": 763
+            },
+            "end": {
+              "line": 29,
+              "column": 30,
+              "offset": 790
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.tags"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.templates",
+          "alias": "Templates",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 3,
+              "offset": 793
+            },
+            "end": {
+              "line": 30,
+              "column": 40,
+              "offset": 830
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.templates"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat",
+            "id": "24dcfc79-c89b-4707-beec-490decd5cda5",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.feat.wikis",
+          "alias": "Wikis",
+          "position": {
+            "start": {
+              "line": 31,
+              "column": 3,
+              "offset": 833
+            },
+            "end": {
+              "line": 31,
+              "column": 32,
+              "offset": 862
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.feat.wikis"
+          }
+        }
+      ],
+      "anchors": {
+        "editing": {
+          "type": "header",
+          "text": "Editing",
+          "value": "editing",
+          "line": 9,
+          "column": 0,
+          "depth": 3
+        },
+        "language": {
+          "type": "header",
+          "text": "Language",
+          "value": "language",
+          "line": 13,
+          "column": 0,
+          "depth": 3
+        },
+        "links": {
+          "type": "header",
+          "text": "Links",
+          "value": "links",
+          "line": 18,
+          "column": 0,
+          "depth": 3
+        },
+        "views": {
+          "type": "header",
+          "text": "Views",
+          "value": "views",
+          "line": 25,
+          "column": 0,
+          "depth": 3
+        },
+        "lookup": {
+          "type": "header",
+          "text": "Lookup",
+          "value": "lookup",
+          "line": 30,
+          "column": 0,
+          "depth": 3
+        },
+        "extras": {
+          "type": "header",
+          "text": "Extras",
+          "value": "extras",
+          "line": 34,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "0486be25-19e4-4fc6-98f6-e5c9908d1161",
+        "65d647f4-2efb-4f54-8f4f-03677780f040",
+        "3594bf38-0f39-4774-a91c-e0d3a2c44072",
+        "d9fa1768-4b95-4c9d-b757-04b73cea2596",
+        "92d31098-7c84-4584-bc62-c4138a8cf6ca",
+        "84be6c16-8824-44e1-9e3a-5de3f13b5b51",
+        "N48gFAh89lVTm43S",
+        "6e04aeb6-4e9c-46a8-a2c0-e6ceb9ee91d0",
+        "b0b7d3bb-3738-42f0-93a4-7f1312d6fe5f",
+        "near45EEjFJJwgTC",
+        "qr5djrgdy8m8fqca3uimwy8",
+        "24e536a4-6414-413f-ab8b-b414ba2e6136",
+        "VtK7zRU1RmWVm4xS",
+        "XQb4lp0HFvRHAwqg",
+        "7180d384-4d45-46b6-ad71-11ff5449c71a"
+      ],
+      "parent": "xa2xq1r8vpv2lar6hbqm0pl",
+      "data": {},
+      "schema": {
+        "schemaId": "ref",
+        "moduleId": "pkm"
+      }
+    },
+    "7180d384-4d45-46b6-ad71-11ff5449c71a": {
+      "id": "7180d384-4d45-46b6-ad71-11ff5449c71a",
+      "title": "Wiki Link",
+      "desc": "",
+      "updated": 1601958340084,
+      "created": 1601958340084,
+      "custom": {},
+      "fname": "pkm.ref.feat.wiki-link",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "2793fcc08f92cee28456eb50d4974df2",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 371
+            },
+            "end": {
+              "line": 14,
+              "column": 40,
+              "offset": 408
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.wiki-link",
+          "alias": "Wiki Link"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 3,
+              "offset": 577
+            },
+            "end": {
+              "line": 15,
+              "column": 40,
+              "offset": 614
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.wiki-link",
+          "alias": "Wiki Links"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 880
+            },
+            "end": {
+              "line": 13,
+              "column": 40,
+              "offset": 917
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.wiki-link",
+          "alias": "Wiki Links"
+        }
+      ],
+      "anchors": {
+        "related": {
+          "type": "header",
+          "text": "Related",
+          "value": "related",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "XQb4lp0HFvRHAwqg": {
+      "id": "XQb4lp0HFvRHAwqg",
+      "title": "Templates",
+      "desc": "",
+      "updated": 1626356476988,
+      "created": 1626356476988,
+      "custom": {},
+      "fname": "pkm.ref.feat.templates",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "aedbb2692d7fc9f11d8f146e9f62beda",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 3,
+              "offset": 793
+            },
+            "end": {
+              "line": 30,
+              "column": 40,
+              "offset": 830
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.templates",
+          "alias": "Templates"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.logseq",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 3,
+              "offset": 1760
+            },
+            "end": {
+              "line": 20,
+              "column": 29,
+              "offset": 1786
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.templates",
+          "alias": "pkm.ref.feat.templates"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 920
+            },
+            "end": {
+              "line": 14,
+              "column": 39,
+              "offset": 956
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.templates",
+          "alias": "Templates"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "VtK7zRU1RmWVm4xS": {
+      "id": "VtK7zRU1RmWVm4xS",
+      "title": "Tasks",
+      "desc": "",
+      "updated": 1626355963474,
+      "created": 1626355963474,
+      "custom": {},
+      "fname": "pkm.ref.feat.tasks",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "cd655274f7ed69823419dd105d8698a2",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 28,
+              "column": 3,
+              "offset": 731
+            },
+            "end": {
+              "line": 28,
+              "column": 32,
+              "offset": 760
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.tasks",
+          "alias": "Tasks"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.logseq",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 3,
+              "offset": 1735
+            },
+            "end": {
+              "line": 19,
+              "column": 25,
+              "offset": 1757
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.tasks",
+          "alias": "pkm.ref.feat.tasks"
+        }
+      ],
+      "anchors": {
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "24e536a4-6414-413f-ab8b-b414ba2e6136": {
+      "id": "24e536a4-6414-413f-ab8b-b414ba2e6136",
+      "title": "Tags",
+      "desc": "",
+      "updated": 1601958444580,
+      "created": 1601958444580,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.feat.tags",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "626d47af4cbe247ea0416e77a3b34c0f",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 29,
+              "column": 3,
+              "offset": 763
+            },
+            "end": {
+              "line": 29,
+              "column": 30,
+              "offset": 790
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.tags",
+          "alias": "Tags"
+        }
+      ],
+      "anchors": {
+        "related": {
+          "type": "header",
+          "text": "Related",
+          "value": "related",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "qr5djrgdy8m8fqca3uimwy8": {
+      "id": "qr5djrgdy8m8fqca3uimwy8",
+      "title": "Rich Text",
+      "desc": "",
+      "updated": 1647555215968,
+      "created": 1646848177493,
+      "custom": {},
+      "fname": "pkm.ref.feat.rich-text",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "b77a3d18b08bc48dc6bd09f82afcc4aa",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 217
+            },
+            "end": {
+              "line": 9,
+              "column": 40,
+              "offset": 254
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.rich-text",
+          "alias": "Rich Text"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 3,
+              "offset": 996
+            },
+            "end": {
+              "line": 16,
+              "column": 40,
+              "offset": 1033
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.rich-text",
+          "alias": "Rich text"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "near45EEjFJJwgTC": {
+      "id": "near45EEjFJJwgTC",
+      "title": "References",
+      "desc": "",
+      "updated": 1626355747228,
+      "created": 1626355747228,
+      "custom": {},
+      "fname": "pkm.ref.feat.references",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "82d2c264c0725a07ac8fcbb21ba92e01",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 3,
+              "offset": 411
+            },
+            "end": {
+              "line": 15,
+              "column": 42,
+              "offset": 450
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.references",
+          "alias": "References"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.athens",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 526
+            },
+            "end": {
+              "line": 14,
+              "column": 30,
+              "offset": 553
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.references",
+          "alias": "pkm.ref.feat.references"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.logseq",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 3,
+              "offset": 1705
+            },
+            "end": {
+              "line": 18,
+              "column": 30,
+              "offset": 1732
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.references",
+          "alias": "pkm.ref.feat.references"
+        }
+      ],
+      "anchors": {
+        "related": {
+          "type": "header",
+          "text": "Related",
+          "value": "related",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "b0b7d3bb-3738-42f0-93a4-7f1312d6fe5f": {
+      "id": "b0b7d3bb-3738-42f0-93a4-7f1312d6fe5f",
+      "title": "Plain Text",
+      "desc": "",
+      "updated": 1647555215097,
+      "created": 1601958591454,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.feat.plain-text",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "65e795d614508ac9cef374c8014ec243",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 137
+            },
+            "end": {
+              "line": 7,
+              "column": 42,
+              "offset": 176
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.plain-text",
+          "alias": "Plain Text"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 3,
+              "offset": 617
+            },
+            "end": {
+              "line": 16,
+              "column": 41,
+              "offset": 655
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.plain-text",
+          "alias": "Plain Text"
+        }
+      ],
+      "anchors": {
+        "related": {
+          "type": "header",
+          "text": "Related",
+          "value": "related",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "6e04aeb6-4e9c-46a8-a2c0-e6ceb9ee91d0": {
+      "id": "6e04aeb6-4e9c-46a8-a2c0-e6ceb9ee91d0",
+      "title": "Path Traversal",
+      "desc": "",
+      "updated": 1601954894029,
+      "created": 1601954894029,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.feat.path-traversal",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "57e196fcce478b68d1163b2f57c8eefb",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 24,
+              "column": 3,
+              "offset": 613
+            },
+            "end": {
+              "line": 24,
+              "column": 50,
+              "offset": 660
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.path-traversal",
+          "alias": "Path Traversal"
+        },
+        {
+          "from": {
+            "fname": "pkm.workflows.hierarchical-notes",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 1,
+              "offset": 188
+            },
+            "end": {
+              "line": 9,
+              "column": 33,
+              "offset": 220
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.path-traversal"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 471
+            },
+            "end": {
+              "line": 13,
+              "column": 49,
+              "offset": 517
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.path-traversal",
+          "alias": "Path Traversal"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "N48gFAh89lVTm43S": {
+      "id": "N48gFAh89lVTm43S",
+      "title": "Outlining",
+      "desc": "",
+      "updated": 1626356827462,
+      "created": 1626356827462,
+      "custom": {},
+      "fname": "pkm.ref.feat.outlining",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "cc2cde8859317ccafb7214f4ac89d339",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 3,
+              "offset": 561
+            },
+            "end": {
+              "line": 21,
+              "column": 40,
+              "offset": 598
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.outlining",
+          "alias": "Outlining"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.athens",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 497
+            },
+            "end": {
+              "line": 13,
+              "column": 29,
+              "offset": 523
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.outlining",
+          "alias": "pkm.ref.feat.outlining"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.logseq",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 3,
+              "offset": 1789
+            },
+            "end": {
+              "line": 21,
+              "column": 29,
+              "offset": 1815
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.outlining",
+          "alias": "pkm.ref.feat.outlining"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "84be6c16-8824-44e1-9e3a-5de3f13b5b51": {
+      "id": "84be6c16-8824-44e1-9e3a-5de3f13b5b51",
+      "title": "Modeless Operation",
+      "desc": "",
+      "updated": 1601955109573,
+      "created": 1601955109573,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.feat.modeless-operation",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "feed7af6d31ac0e8d4f13415a213a380",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 3,
+              "offset": 15
+            },
+            "end": {
+              "line": 3,
+              "column": 57,
+              "offset": 69
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.modeless-operation",
+          "alias": "Modeless Operation"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.dendron",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 520
+            },
+            "end": {
+              "line": 14,
+              "column": 57,
+              "offset": 574
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.modeless-operation",
+          "alias": "Modeless Operation"
+        }
+      ],
+      "anchors": {
+        "related": {
+          "type": "header",
+          "text": "Related",
+          "value": "related",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "92d31098-7c84-4584-bc62-c4138a8cf6ca": {
+      "id": "92d31098-7c84-4584-bc62-c4138a8cf6ca",
+      "title": "Markdown",
+      "desc": "",
+      "updated": 1647555217013,
+      "created": 1602089137238,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.feat.markdown",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "d3419da91c8d2a80381d93b2e1a1e8d6",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 179
+            },
+            "end": {
+              "line": 8,
+              "column": 38,
+              "offset": 214
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.markdown",
+          "alias": "Markdown"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 3,
+              "offset": 959
+            },
+            "end": {
+              "line": 15,
+              "column": 37,
+              "offset": 993
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.markdown",
+          "alias": "Markdown"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.nv-alt",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 380
+            },
+            "end": {
+              "line": 13,
+              "column": 37,
+              "offset": 414
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.markdown",
+          "alias": "Markdown"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "d9fa1768-4b95-4c9d-b757-04b73cea2596": {
+      "id": "d9fa1768-4b95-4c9d-b757-04b73cea2596",
+      "title": "Markdown Preview",
+      "desc": "",
+      "updated": 1602089097823,
+      "created": 1602089097823,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.feat.markdown-preview",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "4057740e9bdccdfaa68d266b31358d49",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 3,
+              "offset": 465
+            },
+            "end": {
+              "line": 19,
+              "column": 54,
+              "offset": 516
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.markdown-preview",
+          "alias": "Markdown Preview"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.nv-alt",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 3,
+              "offset": 417
+            },
+            "end": {
+              "line": 14,
+              "column": 53,
+              "offset": 467
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.markdown-preview",
+          "alias": "Markdown Preview"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "3594bf38-0f39-4774-a91c-e0d3a2c44072": {
+      "id": "3594bf38-0f39-4774-a91c-e0d3a2c44072",
+      "title": "Graph View",
+      "desc": "",
+      "updated": 1601954735749,
+      "created": 1601954735749,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.feat.graph-view",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "4023a07c65d263d15064e912f7aa6158",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 3,
+              "offset": 519
+            },
+            "end": {
+              "line": 20,
+              "column": 42,
+              "offset": 558
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.graph-view",
+          "alias": "Graph View"
+        },
+        {
+          "from": {
+            "fname": "pkm.workflows.networked-notes",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 1,
+              "offset": 210
+            },
+            "end": {
+              "line": 9,
+              "column": 29,
+              "offset": 238
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.graph-view"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.athens",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 467
+            },
+            "end": {
+              "line": 12,
+              "column": 30,
+              "offset": 494
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.graph-view",
+          "alias": "pkm.ref.feat.graph-view"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.logseq",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 3,
+              "offset": 1675
+            },
+            "end": {
+              "line": 17,
+              "column": 30,
+              "offset": 1702
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.graph-view",
+          "alias": "pkm.ref.feat.graph-view"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "65d647f4-2efb-4f54-8f4f-03677780f040": {
+      "id": "65d647f4-2efb-4f54-8f4f-03677780f040",
+      "title": "Bi-Directional Links",
+      "desc": "",
+      "updated": 1601953442524,
+      "created": 1601953442524,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.feat.bi-directional-links",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "a97b4194b551e60757b4ef65c6ed95bb",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat.bi-directional-links",
+            "id": "65d647f4-2efb-4f54-8f4f-03677780f040",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.tools.roam",
+          "alias": "pkm.ref.tools.roam",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 133
+            },
+            "end": {
+              "line": 7,
+              "column": 25,
+              "offset": 155
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.tools.roam"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.ref.feat.bi-directional-links",
+            "id": "65d647f4-2efb-4f54-8f4f-03677780f040",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.ref.tools.obsidian",
+          "alias": "pkm.ref.tools.obsidian",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 158
+            },
+            "end": {
+              "line": 8,
+              "column": 29,
+              "offset": 184
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.ref.tools.obsidian"
+          }
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 3,
+              "offset": 309
+            },
+            "end": {
+              "line": 13,
+              "column": 62,
+              "offset": 368
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.bi-directional-links",
+          "alias": "Bi-Directional Links"
+        },
+        {
+          "from": {
+            "fname": "pkm.workflows.networked-notes",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 1,
+              "offset": 157
+            },
+            "end": {
+              "line": 7,
+              "column": 52,
+              "offset": 208
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.bi-directional-links"
+        }
+      ],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "0486be25-19e4-4fc6-98f6-e5c9908d1161": {
+      "id": "0486be25-19e4-4fc6-98f6-e5c9908d1161",
+      "title": "Backlinks",
+      "desc": "",
+      "updated": 1601953376943,
+      "created": 1601953376943,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.ref.feat.backlinks",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "7a15c6b17a32bfc154789e9e1d5eca88",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.ref.feat",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 269
+            },
+            "end": {
+              "line": 12,
+              "column": 40,
+              "offset": 306
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.backlinks",
+          "alias": "Backlinks"
+        },
+        {
+          "from": {
+            "fname": "pkm.workflows.networked-notes",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 67,
+              "offset": 344
+            },
+            "end": {
+              "line": 17,
+              "column": 103,
+              "offset": 380
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.backlinks",
+          "alias": "backlinks"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.logseq",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 3,
+              "offset": 1646
+            },
+            "end": {
+              "line": 16,
+              "column": 29,
+              "offset": 1672
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.backlinks",
+          "alias": "pkm.ref.feat.backlinks"
+        },
+        {
+          "from": {
+            "fname": "pkm.ref.tools.notion",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 3,
+              "offset": 841
+            },
+            "end": {
+              "line": 12,
+              "column": 39,
+              "offset": 877
+            },
+            "indent": []
+          },
+          "value": "pkm.ref.feat.backlinks",
+          "alias": "Backlinks"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "24dcfc79-c89b-4707-beec-490decd5cda5",
+      "data": {}
+    },
+    "c13508ee-7e34-4e01-bf22-72da545c9f8f": {
+      "id": "c13508ee-7e34-4e01-bf22-72da545c9f8f",
+      "title": "About",
+      "desc": "About this site",
+      "updated": 1646669977599,
+      "created": 1601956913180,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.about",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "dbf04dbbc6ddf78772ab9f840d0f19ce",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.about",
+            "id": "c13508ee-7e34-4e01-bf22-72da545c9f8f",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about.templates",
+          "alias": "templates",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 64,
+              "offset": 805
+            },
+            "end": {
+              "line": 19,
+              "column": 97,
+              "offset": 838
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about.templates"
+          }
+        },
+        {
+          "from": {
+            "fname": "pkm",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 82,
+              "offset": 399
+            },
+            "end": {
+              "line": 7,
+              "column": 100,
+              "offset": 417
+            },
+            "indent": []
+          },
+          "value": "pkm.about",
+          "alias": "here"
+        },
+        {
+          "from": {
+            "fname": "pkm.about.err.nie",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 34,
+              "offset": 63
+            },
+            "end": {
+              "line": 4,
+              "column": 47,
+              "offset": 76
+            },
+            "indent": []
+          },
+          "value": "pkm.about",
+          "alias": "pkm.about"
+        }
+      ],
+      "anchors": {
+        "acknowledgements": {
+          "type": "header",
+          "text": "Acknowledgements",
+          "value": "acknowledgements",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "send-us-a-pull-request": {
+          "type": "header",
+          "text": "Send us a pull request",
+          "value": "send-us-a-pull-request",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "edit-this-page-on-github": {
+          "type": "header",
+          "text": "Edit this page on Github",
+          "value": "edit-this-page-on-github",
+          "line": 15,
+          "column": 0,
+          "depth": 3
+        },
+        "clone-our-github-repo": {
+          "type": "header",
+          "text": "Clone our github repo",
+          "value": "clone-our-github-repo",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        },
+        "workflow": {
+          "type": "header",
+          "text": "Workflow",
+          "value": "workflow",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "images": {
+          "type": "header",
+          "text": "Images",
+          "value": "images",
+          "line": 30,
+          "column": 0,
+          "depth": 3
+        },
+        "gifs": {
+          "type": "header",
+          "text": "GIFS",
+          "value": "gifs",
+          "line": 38,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "59886352-f47d-4dae-8213-25202ccbb392",
+        "850eb547-c40b-436a-85ba-c9c033e65f40"
+      ],
+      "parent": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+      "data": {}
+    },
+    "850eb547-c40b-436a-85ba-c9c033e65f40": {
+      "id": "850eb547-c40b-436a-85ba-c9c033e65f40",
+      "title": "Templates",
+      "desc": "",
+      "updated": 1601956209670,
+      "created": 1601956209670,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.about.templates",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "092bf2f3124b7173fddefe36ebeafd7f",
+      "links": [
+        {
+          "from": {
+            "fname": "pkm.about",
+            "vaultName": "pkm-docs"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 64,
+              "offset": 805
+            },
+            "end": {
+              "line": 19,
+              "column": 97,
+              "offset": 838
+            },
+            "indent": []
+          },
+          "value": "pkm.about.templates",
+          "alias": "templates"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "c79fdcb3-3870-4dbd-8c8e-2b0ca2c3d28b",
+        "28cc1434-215e-4cfe-a942-c67c4f0434b0",
+        "c60dc0d3-d300-46ad-8c4f-c2ab876b74ee",
+        "f5d83179-f332-4369-b5b9-8850f01419e7"
+      ],
+      "parent": "c13508ee-7e34-4e01-bf22-72da545c9f8f",
+      "data": {}
+    },
+    "f5d83179-f332-4369-b5b9-8850f01419e7": {
+      "id": "f5d83179-f332-4369-b5b9-8850f01419e7",
+      "title": "{Name}",
+      "desc": "",
+      "updated": 1601956554213,
+      "created": 1601956554213,
+      "custom": {},
+      "fname": "pkm.about.templates.workflows",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "01089021f0636d2bbc3f061fbb52cf4b",
+      "links": [],
+      "anchors": {
+        "summary": {
+          "type": "header",
+          "text": "Summary",
+          "value": "summary",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "getting-started": {
+          "type": "header",
+          "text": "Getting Started",
+          "value": "getting-started",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "tools": {
+          "type": "header",
+          "text": "Tools",
+          "value": "tools",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "resources": {
+          "type": "header",
+          "text": "Resources",
+          "value": "resources",
+          "line": 17,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "850eb547-c40b-436a-85ba-c9c033e65f40",
+      "data": {}
+    },
+    "c60dc0d3-d300-46ad-8c4f-c2ab876b74ee": {
+      "id": "c60dc0d3-d300-46ad-8c4f-c2ab876b74ee",
+      "title": "{NAME}",
+      "desc": "",
+      "updated": 1601956209259,
+      "created": 1601956209259,
+      "custom": {},
+      "fname": "pkm.about.templates.tools",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "ab9e067552c53eb6c89a4816318fca67",
+      "links": [],
+      "anchors": {
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "methods": {
+          "type": "header",
+          "text": "Methods",
+          "value": "methods",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "850eb547-c40b-436a-85ba-c9c033e65f40",
+      "data": {}
+    },
+    "28cc1434-215e-4cfe-a942-c67c4f0434b0": {
+      "id": "28cc1434-215e-4cfe-a942-c67c4f0434b0",
+      "title": "Ref",
+      "desc": "",
+      "updated": 1601956623873,
+      "created": 1601956623873,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.about.templates.ref",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "afb250e7ec306996ae91bbf9fc7f8408",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "850eb547-c40b-436a-85ba-c9c033e65f40",
+      "data": {}
+    },
+    "c79fdcb3-3870-4dbd-8c8e-2b0ca2c3d28b": {
+      "id": "c79fdcb3-3870-4dbd-8c8e-2b0ca2c3d28b",
+      "title": "Impl",
+      "desc": "",
+      "updated": 1622903048236,
+      "created": 1622902965946,
+      "custom": {},
+      "fname": "pkm.about.templates.impl",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "89aea98155f361a25c334ecf0b960b52",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.about.templates.impl",
+            "id": "c79fdcb3-3870-4dbd-8c8e-2b0ca2c3d28b",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.methods.??",
+          "alias": "pkm.methods.??",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 11,
+              "offset": 65
+            },
+            "end": {
+              "line": 10,
+              "column": 29,
+              "offset": 83
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.methods.??"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm.about.templates.impl",
+            "id": "c79fdcb3-3870-4dbd-8c8e-2b0ca2c3d28b",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.tools.??",
+          "alias": "pkm.tools.??",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 9,
+              "offset": 92
+            },
+            "end": {
+              "line": 11,
+              "column": 25,
+              "offset": 108
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.tools.??"
+          }
+        }
+      ],
+      "anchors": {
+        "example": {
+          "type": "header",
+          "text": "Example",
+          "value": "example",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "quickstart": {
+          "type": "header",
+          "text": "Quickstart",
+          "value": "quickstart",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "850eb547-c40b-436a-85ba-c9c033e65f40",
+      "data": {}
+    },
+    "59886352-f47d-4dae-8213-25202ccbb392": {
+      "id": "59886352-f47d-4dae-8213-25202ccbb392",
+      "title": "Resources",
+      "desc": "",
+      "updated": 1601140247340,
+      "created": 1601140247340,
+      "stub": false,
+      "custom": {
+        "stub": false
+      },
+      "fname": "pkm.about.resources",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "14d28723b897a8ea5f58f811e0190ae4",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "c13508ee-7e34-4e01-bf22-72da545c9f8f",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+      "title": "The Open PKM Catalogue",
+      "desc": "",
+      "updated": 1620802956569,
+      "created": 1601139532663,
+      "stub": false,
+      "custom": {
+        "stub": false,
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "pkm",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault",
+        "remote": {
+          "type": "git",
+          "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+        },
+        "name": "pkm-docs"
+      },
+      "contentHash": "4bdfa857320edbe5cd5d38ac04317de1",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "pkm",
+            "id": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+            "vaultName": "pkm-docs"
+          },
+          "value": "pkm.about",
+          "alias": "here",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 82,
+              "offset": 399
+            },
+            "end": {
+              "line": 7,
+              "column": 100,
+              "offset": 417
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "pkm.about"
+          }
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "c13508ee-7e34-4e01-bf22-72da545c9f8f",
+        "xa2xq1r8vpv2lar6hbqm0pl",
+        "84412de7-591f-4e73-b020-b93a322078db"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "<iframe src=\"https://ghbtns.com/github-btn.html?user=dendronhq&repo=catalogue-open-pkm&type=star&count=false&size=large\" frameborder=\"0\" scrolling=\"0\" width=\"170\" height=\"30\" title=\"GitHub\"></iframe>\n\nThis site is meant to be a reference of all things PKM (Personal knowledge management). \n\nIt is a work in progress.\n\nIf you would like to contribute to the guide, you can find instructions to do so [[here|pkm.about]]\n\nAll content on this site is licensed under the [Creative Commons Attribution 4.0 International](https://github.com/open-guides/og-aws/blob/master/LICENSE.txt) \n\n",
+      "schema": {
+        "schemaId": "pkm",
+        "moduleId": "pkm"
+      }
+    }
+  ],
+  "noteIndex": {
+    "id": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+    "title": "The Open PKM Catalogue",
+    "desc": "",
+    "updated": 1620802956569,
+    "created": 1601139532663,
+    "stub": false,
+    "custom": {
+      "stub": false,
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "pkm",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault",
+      "remote": {
+        "type": "git",
+        "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+      },
+      "name": "pkm-docs"
+    },
+    "contentHash": "4bdfa857320edbe5cd5d38ac04317de1",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "pkm",
+          "id": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+          "vaultName": "pkm-docs"
+        },
+        "value": "pkm.about",
+        "alias": "here",
+        "position": {
+          "start": {
+            "line": 7,
+            "column": 82,
+            "offset": 399
+          },
+          "end": {
+            "line": 7,
+            "column": 100,
+            "offset": 417
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "pkm.about"
+        }
+      }
+    ],
+    "anchors": {},
+    "children": [
+      "c13508ee-7e34-4e01-bf22-72da545c9f8f",
+      "xa2xq1r8vpv2lar6hbqm0pl",
+      "84412de7-591f-4e73-b020-b93a322078db"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "<iframe src=\"https://ghbtns.com/github-btn.html?user=dendronhq&repo=catalogue-open-pkm&type=star&count=false&size=large\" frameborder=\"0\" scrolling=\"0\" width=\"170\" height=\"30\" title=\"GitHub\"></iframe>\n\nThis site is meant to be a reference of all things PKM (Personal knowledge management). \n\nIt is a work in progress.\n\nIf you would like to contribute to the guide, you can find instructions to do so [[here|pkm.about]]\n\nAll content on this site is licensed under the [Creative Commons Attribution 4.0 International](https://github.com/open-guides/og-aws/blob/master/LICENSE.txt) \n\n",
+    "schema": {
+      "schemaId": "pkm",
+      "moduleId": "pkm"
+    }
+  },
+  "vaults": [
+    {
+      "fsPath": "vault",
+      "remote": {
+        "type": "git",
+        "url": "git@github.com:dendronhq/catalogue-open-pkm.git"
+      },
+      "name": "pkm-docs"
+    }
+  ]
+}

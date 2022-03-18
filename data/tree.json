@@ -1,0 +1,438 @@
+{
+  "roots": [
+    {
+      "key": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+      "title": "The Open PKM Catalogue",
+      "icon": "bookOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "pkm-docs",
+      "children": [
+        {
+          "key": "c13508ee-7e34-4e01-bf22-72da545c9f8f",
+          "title": "About",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "pkm-docs",
+          "children": [
+            {
+              "key": "59886352-f47d-4dae-8213-25202ccbb392",
+              "title": "Resources",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "pkm-docs",
+              "children": []
+            },
+            {
+              "key": "850eb547-c40b-436a-85ba-c9c033e65f40",
+              "title": "Templates",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "pkm-docs",
+              "children": [
+                {
+                  "key": "c79fdcb3-3870-4dbd-8c8e-2b0ca2c3d28b",
+                  "title": "Impl",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "28cc1434-215e-4cfe-a942-c67c4f0434b0",
+                  "title": "Ref",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "c60dc0d3-d300-46ad-8c4f-c2ab876b74ee",
+                  "title": "{NAME}",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "f5d83179-f332-4369-b5b9-8850f01419e7",
+                  "title": "{Name}",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "xa2xq1r8vpv2lar6hbqm0pl",
+          "title": "Reference",
+          "icon": "bookOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "pkm-docs",
+          "children": [
+            {
+              "key": "24dcfc79-c89b-4707-beec-490decd5cda5",
+              "title": "Features",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "pkm-docs",
+              "children": [
+                {
+                  "key": "0486be25-19e4-4fc6-98f6-e5c9908d1161",
+                  "title": "Backlinks",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "65d647f4-2efb-4f54-8f4f-03677780f040",
+                  "title": "Bi-Directional Links",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "3594bf38-0f39-4774-a91c-e0d3a2c44072",
+                  "title": "Graph View",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "92d31098-7c84-4584-bc62-c4138a8cf6ca",
+                  "title": "Markdown",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "d9fa1768-4b95-4c9d-b757-04b73cea2596",
+                  "title": "Markdown Preview",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "84be6c16-8824-44e1-9e3a-5de3f13b5b51",
+                  "title": "Modeless Operation",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "N48gFAh89lVTm43S",
+                  "title": "Outlining",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "6e04aeb6-4e9c-46a8-a2c0-e6ceb9ee91d0",
+                  "title": "Path Traversal",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "b0b7d3bb-3738-42f0-93a4-7f1312d6fe5f",
+                  "title": "Plain Text",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "near45EEjFJJwgTC",
+                  "title": "References",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "qr5djrgdy8m8fqca3uimwy8",
+                  "title": "Rich Text",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "24e536a4-6414-413f-ab8b-b414ba2e6136",
+                  "title": "Tags",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "VtK7zRU1RmWVm4xS",
+                  "title": "Tasks",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "XQb4lp0HFvRHAwqg",
+                  "title": "Templates",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "7180d384-4d45-46b6-ad71-11ff5449c71a",
+                  "title": "Wiki Link",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+              "title": "Implementation",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "pkm-docs",
+              "children": [
+                {
+                  "key": "61f3b580-d10a-467b-b4d1-ffadfe44183d",
+                  "title": "Bullet Journaling and Dendron",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "926044ea-038c-4174-a4fc-349f71b8b661",
+                  "title": "Hierarchical notes and Dendron",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "W8MYNrS1yWDF5Ihv",
+                  "title": "Zettelkasten with Pen and Paper",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+              "title": "Tools",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "pkm-docs",
+              "children": [
+                {
+                  "key": "yMFXB0Q1cDzRF20q",
+                  "title": "Athens",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "d27a8fcc-f888-4b98-823e-f57c2e826cf9",
+                  "title": "Dendron",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "b6ea844e-5193-4663-8030-5797ff32d901",
+                  "title": "Logseq",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "dee28164-6ba6-4038-be1c-522c0f542b5e",
+                  "title": "Notational velocity",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "zv68xsswnp6znc7kol0dg2a",
+                  "title": "Notion",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "37bf862d-1f72-441e-a37a-7d21698e39d6",
+                  "title": "Obsidian",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "34129480-2352-465c-a357-28a3ae9ba86f",
+                  "title": "Pen and Paper",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "76cd9120-71d6-4f38-afe8-d51f91f65f05",
+                  "title": "Roam",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "d3f7e20e-1c29-4ef4-bc05-4735c4f8938d",
+                  "title": "Vim Wiki",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                },
+                {
+                  "key": "2b20037d-af9c-4539-adc5-3062293da9eb",
+                  "title": "nvALT",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "pkm-docs",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "84412de7-591f-4e73-b020-b93a322078db",
+          "title": "Workflows",
+          "icon": "bookOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "pkm-docs",
+          "children": [
+            {
+              "key": "e9525aeb-17b6-4fd8-86be-c960e0630171",
+              "title": "Bullet Journal",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "pkm-docs",
+              "children": []
+            },
+            {
+              "key": "92db8511-ff54-488e-91f2-022325d7e16c",
+              "title": "Commonplace Books",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "pkm-docs",
+              "children": []
+            },
+            {
+              "key": "eb7a54ee-c5a6-4fd3-911d-d9cd8ff94636",
+              "title": "Hierarchical Notes",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "pkm-docs",
+              "children": []
+            },
+            {
+              "key": "a41c0ae1-7df7-42d3-a5ca-37bd231da577",
+              "title": "Networked Notes",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "pkm-docs",
+              "children": []
+            },
+            {
+              "key": "20855ea8-0f1d-49bd-80ca-7b807ef77bbf",
+              "title": "PARA",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "pkm-docs",
+              "children": []
+            },
+            {
+              "key": "3297052e-4591-4190-9975-4e4bd30b8931",
+              "title": "Zettelkasten",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "pkm-docs",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c": null,
+    "84412de7-591f-4e73-b020-b93a322078db": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+    "3297052e-4591-4190-9975-4e4bd30b8931": "84412de7-591f-4e73-b020-b93a322078db",
+    "20855ea8-0f1d-49bd-80ca-7b807ef77bbf": "84412de7-591f-4e73-b020-b93a322078db",
+    "a41c0ae1-7df7-42d3-a5ca-37bd231da577": "84412de7-591f-4e73-b020-b93a322078db",
+    "eb7a54ee-c5a6-4fd3-911d-d9cd8ff94636": "84412de7-591f-4e73-b020-b93a322078db",
+    "92db8511-ff54-488e-91f2-022325d7e16c": "84412de7-591f-4e73-b020-b93a322078db",
+    "e9525aeb-17b6-4fd8-86be-c960e0630171": "84412de7-591f-4e73-b020-b93a322078db",
+    "xa2xq1r8vpv2lar6hbqm0pl": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+    "5a6ae6d1-6513-4eba-a98d-84ceb947d812": "xa2xq1r8vpv2lar6hbqm0pl",
+    "d3f7e20e-1c29-4ef4-bc05-4735c4f8938d": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+    "76cd9120-71d6-4f38-afe8-d51f91f65f05": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+    "34129480-2352-465c-a357-28a3ae9ba86f": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+    "37bf862d-1f72-441e-a37a-7d21698e39d6": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+    "2b20037d-af9c-4539-adc5-3062293da9eb": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+    "zv68xsswnp6znc7kol0dg2a": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+    "dee28164-6ba6-4038-be1c-522c0f542b5e": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+    "b6ea844e-5193-4663-8030-5797ff32d901": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+    "d27a8fcc-f888-4b98-823e-f57c2e826cf9": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+    "yMFXB0Q1cDzRF20q": "5a6ae6d1-6513-4eba-a98d-84ceb947d812",
+    "7c64cee9-69a8-48c3-9c0b-5dd031243204": "xa2xq1r8vpv2lar6hbqm0pl",
+    "W8MYNrS1yWDF5Ihv": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+    "926044ea-038c-4174-a4fc-349f71b8b661": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+    "61f3b580-d10a-467b-b4d1-ffadfe44183d": "7c64cee9-69a8-48c3-9c0b-5dd031243204",
+    "24dcfc79-c89b-4707-beec-490decd5cda5": "xa2xq1r8vpv2lar6hbqm0pl",
+    "7180d384-4d45-46b6-ad71-11ff5449c71a": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "XQb4lp0HFvRHAwqg": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "VtK7zRU1RmWVm4xS": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "24e536a4-6414-413f-ab8b-b414ba2e6136": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "qr5djrgdy8m8fqca3uimwy8": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "near45EEjFJJwgTC": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "b0b7d3bb-3738-42f0-93a4-7f1312d6fe5f": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "6e04aeb6-4e9c-46a8-a2c0-e6ceb9ee91d0": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "N48gFAh89lVTm43S": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "84be6c16-8824-44e1-9e3a-5de3f13b5b51": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "92d31098-7c84-4584-bc62-c4138a8cf6ca": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "d9fa1768-4b95-4c9d-b757-04b73cea2596": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "3594bf38-0f39-4774-a91c-e0d3a2c44072": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "65d647f4-2efb-4f54-8f4f-03677780f040": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "0486be25-19e4-4fc6-98f6-e5c9908d1161": "24dcfc79-c89b-4707-beec-490decd5cda5",
+    "c13508ee-7e34-4e01-bf22-72da545c9f8f": "c6ea7b74-b873-4f8e-a0ee-b5969beb3f8c",
+    "850eb547-c40b-436a-85ba-c9c033e65f40": "c13508ee-7e34-4e01-bf22-72da545c9f8f",
+    "f5d83179-f332-4369-b5b9-8850f01419e7": "850eb547-c40b-436a-85ba-c9c033e65f40",
+    "c60dc0d3-d300-46ad-8c4f-c2ab876b74ee": "850eb547-c40b-436a-85ba-c9c033e65f40",
+    "28cc1434-215e-4cfe-a942-c67c4f0434b0": "850eb547-c40b-436a-85ba-c9c033e65f40",
+    "c79fdcb3-3870-4dbd-8c8e-2b0ca2c3d28b": "850eb547-c40b-436a-85ba-c9c033e65f40",
+    "59886352-f47d-4dae-8213-25202ccbb392": "c13508ee-7e34-4e01-bf22-72da545c9f8f"
+  }
+}
